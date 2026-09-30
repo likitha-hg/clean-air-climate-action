@@ -1,0 +1,73 @@
+station_id,station,latitude,longitude,state,corridor_id,corridor_name,association_type
+5542,"Civil Line, Jalandhar - PPCB",31.321907,75.578914,Punjab,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+5585,"Ashok Nagar, Udaipur - RSPCB",24.5886166,73.6321397,Rajasthan,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+5590,"Ardhali Bazar, Varanasi - UPPCB",25.3505986,82.9083074,Uttar Pradesh,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+5590,"Ardhali Bazar, Varanasi - UPPCB",25.3505986,82.9083074,Uttar Pradesh,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+5602,"Asansol Court Area, Asansol - WBPCB",23.685297,86.945968,West Bengal,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+5602,"Asansol Court Area, Asansol - WBPCB",23.685297,86.945968,West Bengal,ECEC,East Coast Economic Corridor,STATE_SCOPE
+5613,"ITO, New Delhi - CPCB",28.628624,77.24106,Delhi,,,OUTSIDE_REGISTERED_SCOPE
+5628,"GVM Corporation, Visakhapatnam - APPCB",17.722682,83.308197,Andhra Pradesh,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+5628,"GVM Corporation, Visakhapatnam - APPCB",17.722682,83.308197,Andhra Pradesh,VCIC,Vizag–Chennai Industrial Corridor,STATE_SCOPE
+5628,"GVM Corporation, Visakhapatnam - APPCB",17.722682,83.308197,Andhra Pradesh,ECEC,East Coast Economic Corridor,STATE_SCOPE
+5648,"Ward-32 Bapupara, Siliguri - WBPCB",26.6883049,88.412668,West Bengal,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+5648,"Ward-32 Bapupara, Siliguri - WBPCB",26.6883049,88.412668,West Bengal,ECEC,East Coast Economic Corridor,STATE_SCOPE
+5649,"Tirumala, Tirupati - APPCB",13.67,79.35,Andhra Pradesh,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+5649,"Tirumala, Tirupati - APPCB",13.67,79.35,Andhra Pradesh,VCIC,Vizag–Chennai Industrial Corridor,STATE_SCOPE
+5649,"Tirumala, Tirupati - APPCB",13.67,79.35,Andhra Pradesh,ECEC,East Coast Economic Corridor,STATE_SCOPE
+6955,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",17.321993,76.822628,Karnataka,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+6955,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",17.321993,76.822628,Karnataka,BMIC,Bengaluru–Mumbai Industrial Corridor,STATE_SCOPE
+6964,"Patti Mehar, Ambala - HSPCB",30.379589,76.778328,Haryana,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+6964,"Patti Mehar, Ambala - HSPCB",30.379589,76.778328,Haryana,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+6969,"Huda Sector, Fatehabad - HSPCB",29.503664,75.467934,Haryana,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+6969,"Huda Sector, Fatehabad - HSPCB",29.503664,75.467934,Haryana,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+6982,"Deshpande Nagar, Hubballi - KSPCB",15.351773,75.140726,Karnataka,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+6982,"Deshpande Nagar, Hubballi - KSPCB",15.351773,75.140726,Karnataka,BMIC,Bengaluru–Mumbai Industrial Corridor,STATE_SCOPE
+6984,"Hebbal, Bengaluru - KSPCB",13.029152,77.585901,Karnataka,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+6984,"Hebbal, Bengaluru - KSPCB",13.029152,77.585901,Karnataka,BMIC,Bengaluru–Mumbai Industrial Corridor,STATE_SCOPE
+7495,"DRM Office Danapur, Patna - BSPCB",25.586562,85.043586,Bihar,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+8245,"Gole Bazar, Katni - MPPCB",23.50016,80.23284,Madhya Pradesh,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+10633,"Victoria, Kolkata - WBPCB",22.5448082,88.3403691,West Bengal,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+10633,"Victoria, Kolkata - WBPCB",22.5448082,88.3403691,West Bengal,ECEC,East Coast Economic Corridor,STATE_SCOPE
+10915,"Polayathode, Kollam - Kerala PCB",8.8787,76.6073,Kerala,,,OUTSIDE_REGISTERED_SCOPE
+11579,"Kodungaiyur, Chennai - TNPCB",13.1278,80.2642,Tamil Nadu,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+11579,"Kodungaiyur, Chennai - TNPCB",13.1278,80.2642,Tamil Nadu,VCIC,Vizag–Chennai Industrial Corridor,STATE_SCOPE
+11579,"Kodungaiyur, Chennai - TNPCB",13.1278,80.2642,Tamil Nadu,ECEC,East Coast Economic Corridor,STATE_SCOPE
+11582,"Stuart Hill, Madikeri - KSPCB",12.415911,75.73505,Karnataka,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+11582,"Stuart Hill, Madikeri - KSPCB",12.415911,75.73505,Karnataka,BMIC,Bengaluru–Mumbai Industrial Corridor,STATE_SCOPE
+220265,"Rajbagh, Srinagar - JKSPCB",34.06621,74.81982,Jammu and Kashmir,,,OUTSIDE_REGISTERED_SCOPE
+227534,"Gyaspur, Ahmedabad - IITM",22.977134,72.553024,Gujarat,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+228352,"Shastripuram, Agra - UPPCB",27.19862,77.92066,Uttar Pradesh,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+228352,"Shastripuram, Agra - UPPCB",27.19862,77.92066,Uttar Pradesh,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+229728,"Kamalnath Nagar, Bettiah - BSPCB",26.80365,84.51954,Bihar,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+270721,"Mayaganj, Bhagalpur - BSPCB",25.265194,87.012947,Bihar,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+270777,"Jigar Colony, Moradabad - UPPCB",28.856664,78.772638,Uttar Pradesh,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+270777,"Jigar Colony, Moradabad - UPPCB",28.856664,78.772638,Uttar Pradesh,AKIC,Amritsar–Kolkata Industrial Corridor,STATE_SCOPE
+346258,"Kokapet, Hyderabad - TSPCB",17.393559,78.33919399999999,Telangana,,,OUTSIDE_REGISTERED_SCOPE
+358448,"Kumaran College, Tirupur - TNPCB",11.0973603,77.3228673,Tamil Nadu,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+358448,"Kumaran College, Tirupur - TNPCB",11.0973603,77.3228673,Tamil Nadu,VCIC,Vizag–Chennai Industrial Corridor,STATE_SCOPE
+358448,"Kumaran College, Tirupur - TNPCB",11.0973603,77.3228673,Tamil Nadu,ECEC,East Coast Economic Corridor,STATE_SCOPE
+363601,"Girls College, Sivasagar - PCBA",26.987634000000003,94.636574,Assam,,,OUTSIDE_REGISTERED_SCOPE
+3409345,"Parisutham Nagar, Thanjavur - TNPCB",10.7654824,79.1389968,Tamil Nadu,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+3409345,"Parisutham Nagar, Thanjavur - TNPCB",10.7654824,79.1389968,Tamil Nadu,VCIC,Vizag–Chennai Industrial Corridor,STATE_SCOPE
+3409345,"Parisutham Nagar, Thanjavur - TNPCB",10.7654824,79.1389968,Tamil Nadu,ECEC,East Coast Economic Corridor,STATE_SCOPE
+3409361,"AIIMS, Raipur - CECB",21.258815,81.578979,Chhattisgarh,,,OUTSIDE_REGISTERED_SCOPE
+3409376,"Central Academy for SFS, Byrnihat - PCBA",26.071318,91.87488,Assam,,,OUTSIDE_REGISTERED_SCOPE
+3409380,"Tata Township, Bileipada - OSPCB",22.06156703,85.47409613,Odisha,ECEC,East Coast Economic Corridor,STATE_SCOPE
+3409392,"Kanuru, Vijayawada - APPCB",16.486692,80.69943599999999,Andhra Pradesh,CBIC,Chennai–Bengaluru Industrial Corridor,STATE_SCOPE
+3409392,"Kanuru, Vijayawada - APPCB",16.486692,80.69943599999999,Andhra Pradesh,VCIC,Vizag–Chennai Industrial Corridor,STATE_SCOPE
+3409392,"Kanuru, Vijayawada - APPCB",16.486692,80.69943599999999,Andhra Pradesh,ECEC,East Coast Economic Corridor,STATE_SCOPE
+3409396,"Nawapara SECL Colony, Chhal - CECB",22.118125,83.140608,Chhattisgarh,,,OUTSIDE_REGISTERED_SCOPE
+3409418,"Khatikan Mohalla, Dausa - RSPCB",26.895552,76.334753,Rajasthan,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+3409419,"Railway Colony, Barmer - RSPCB",25.747299,71.393989,Rajasthan,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+3409422,"Indra Nagar, Jhunjhunu - RSPCB",28.108988,75.386577,Rajasthan,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+3409431,"Digari Kalan, Jodhpur - RSPCB",26.295809999999996,73.08228299999999,Rajasthan,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+3409461,"Rachnakar Colony, Aurangabad - MPCB",19.863756,75.321188,Maharashtra,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+3409461,"Rachnakar Colony, Aurangabad - MPCB",19.863756,75.321188,Maharashtra,BMIC,Bengaluru–Mumbai Industrial Corridor,STATE_SCOPE
+3409464,"Ambazari, Nagpur - MPCB",21.121801,79.04952,Maharashtra,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+3409464,"Ambazari, Nagpur - MPCB",21.121801,79.04952,Maharashtra,BMIC,Bengaluru–Mumbai Industrial Corridor,STATE_SCOPE
+3409469,"Kasarvadavali, Thane - MPCB",19.26777,72.97182,Maharashtra,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+3409469,"Kasarvadavali, Thane - MPCB",19.26777,72.97182,Maharashtra,BMIC,Bengaluru–Mumbai Industrial Corridor,STATE_SCOPE
+3409506,"CDA Area, Cuttack - OSPCB",20.48891,85.84768,Odisha,ECEC,East Coast Economic Corridor,STATE_SCOPE
+3410003,"Police Line, Sri Vijaya Puram - ANPCC",11.654054,92.734055,Andaman and Nicobar Islands,,,OUTSIDE_REGISTERED_SCOPE
+6266793,"Ashta Vinayak Nagar, Hingoli - MPCB",19.710842,77.151824,Maharashtra,DMIC,Delhi–Mumbai Industrial Corridor,STATE_SCOPE
+6266793,"Ashta Vinayak Nagar, Hingoli - MPCB",19.710842,77.151824,Maharashtra,BMIC,Bengaluru–Mumbai Industrial Corridor,STATE_SCOPE

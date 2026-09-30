@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Raw/private data
+data/raw/*
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python cache anywhere under src
+**/__pycache__/
+
+# Local app backups
+app_before_*.py
+
+
+# Local source backups
+src/corridors/registry_before_*.py
+src/federated/*_backup.py

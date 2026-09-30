@@ -1,0 +1,2 @@
+model,test_samples,training_samples,stations,clients,feature_count,split_timestamp,mae_ug_m3,rmse_ug_m3,r2,aggregation,parameter_space,local_preprocessing,raw_data_transferred
+Federated SGD + FedAvg,28095,73502,44,5,33,2026-07-26 02:30:00+00:00,7.093746610963125,16.098836830227487,0.26189117304668996,sample-weighted FedAvg,raw_feature_space,per-client StandardScaler,False

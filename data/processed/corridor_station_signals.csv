@@ -1,0 +1,64 @@
+corridor_id,corridor_name,station_id,station,state,pm25,predicted_pm25_3h,forecast_change,hotspot_score,recent_event_count,forecast_risk,alert_priority,current_pm25_elevated,current_pm25_high,forecast_pm25_elevated,forecast_pm25_high,event_signal,hotspot_signal,authority_pressure
+AKIC,Amritsar–Kolkata Industrial Corridor,5542,"Civil Line, Jalandhar - PPCB",Punjab,41.0,48.1,7.100000000000001,0.0,1.0,MODERATE,MODERATE,True,False,True,False,True,False,True
+DMIC,Delhi–Mumbai Industrial Corridor,5585,"Ashok Nagar, Udaipur - RSPCB",Rajasthan,57.6,49.89,-7.710000000000001,0.73,0.0,MODERATE,MODERATE,True,True,True,False,False,True,True
+DMIC,Delhi–Mumbai Industrial Corridor,5590,"Ardhali Bazar, Varanasi - UPPCB",Uttar Pradesh,14.0,18.79,4.789999999999999,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+AKIC,Amritsar–Kolkata Industrial Corridor,5590,"Ardhali Bazar, Varanasi - UPPCB",Uttar Pradesh,14.0,18.79,4.789999999999999,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+AKIC,Amritsar–Kolkata Industrial Corridor,5602,"Asansol Court Area, Asansol - WBPCB",West Bengal,29.2,29.47,0.2699999999999996,0.67,2.0,LOW,MODERATE,False,False,False,False,True,True,True
+ECEC,East Coast Economic Corridor,5602,"Asansol Court Area, Asansol - WBPCB",West Bengal,29.2,29.47,0.2699999999999996,0.67,2.0,LOW,MODERATE,False,False,False,False,True,True,True
+CBIC,Chennai–Bengaluru Industrial Corridor,5628,"GVM Corporation, Visakhapatnam - APPCB",Andhra Pradesh,,,,,,,,False,False,False,False,False,False,False
+VCIC,Vizag–Chennai Industrial Corridor,5628,"GVM Corporation, Visakhapatnam - APPCB",Andhra Pradesh,,,,,,,,False,False,False,False,False,False,False
+ECEC,East Coast Economic Corridor,5628,"GVM Corporation, Visakhapatnam - APPCB",Andhra Pradesh,,,,,,,,False,False,False,False,False,False,False
+AKIC,Amritsar–Kolkata Industrial Corridor,5648,"Ward-32 Bapupara, Siliguri - WBPCB",West Bengal,17.2,19.12,1.9200000000000017,0.39,0.0,LOW,LOW,False,False,False,False,False,True,False
+ECEC,East Coast Economic Corridor,5648,"Ward-32 Bapupara, Siliguri - WBPCB",West Bengal,17.2,19.12,1.9200000000000017,0.39,0.0,LOW,LOW,False,False,False,False,False,True,False
+CBIC,Chennai–Bengaluru Industrial Corridor,5649,"Tirumala, Tirupati - APPCB",Andhra Pradesh,10.0,12.96,2.960000000000001,0.27,8.0,LOW,MODERATE,False,False,False,False,True,True,True
+VCIC,Vizag–Chennai Industrial Corridor,5649,"Tirumala, Tirupati - APPCB",Andhra Pradesh,10.0,12.96,2.960000000000001,0.27,8.0,LOW,MODERATE,False,False,False,False,True,True,True
+ECEC,East Coast Economic Corridor,5649,"Tirumala, Tirupati - APPCB",Andhra Pradesh,10.0,12.96,2.960000000000001,0.27,8.0,LOW,MODERATE,False,False,False,False,True,True,True
+CBIC,Chennai–Bengaluru Industrial Corridor,6955,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",Karnataka,29.3,24.84,-4.460000000000001,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+BMIC,Bengaluru–Mumbai Industrial Corridor,6955,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",Karnataka,29.3,24.84,-4.460000000000001,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+DMIC,Delhi–Mumbai Industrial Corridor,6964,"Patti Mehar, Ambala - HSPCB",Haryana,28.3,36.29,7.989999999999998,0.5,1.0,LOW,LOW,False,False,False,False,True,True,False
+AKIC,Amritsar–Kolkata Industrial Corridor,6964,"Patti Mehar, Ambala - HSPCB",Haryana,28.3,36.29,7.989999999999998,0.5,1.0,LOW,LOW,False,False,False,False,True,True,False
+DMIC,Delhi–Mumbai Industrial Corridor,6969,"Huda Sector, Fatehabad - HSPCB",Haryana,,,,,,,,False,False,False,False,False,False,False
+AKIC,Amritsar–Kolkata Industrial Corridor,6969,"Huda Sector, Fatehabad - HSPCB",Haryana,,,,,,,,False,False,False,False,False,False,False
+CBIC,Chennai–Bengaluru Industrial Corridor,6982,"Deshpande Nagar, Hubballi - KSPCB",Karnataka,16.1,17.01,0.9100000000000001,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+BMIC,Bengaluru–Mumbai Industrial Corridor,6982,"Deshpande Nagar, Hubballi - KSPCB",Karnataka,16.1,17.01,0.9100000000000001,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+CBIC,Chennai–Bengaluru Industrial Corridor,6984,"Hebbal, Bengaluru - KSPCB",Karnataka,,,,,,,,False,False,False,False,False,False,False
+BMIC,Bengaluru–Mumbai Industrial Corridor,6984,"Hebbal, Bengaluru - KSPCB",Karnataka,,,,,,,,False,False,False,False,False,False,False
+AKIC,Amritsar–Kolkata Industrial Corridor,7495,"DRM Office Danapur, Patna - BSPCB",Bihar,26.5,28.57,2.0700000000000003,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+DMIC,Delhi–Mumbai Industrial Corridor,8245,"Gole Bazar, Katni - MPPCB",Madhya Pradesh,28.5,26.76,-1.7399999999999984,0.55,0.0,LOW,LOW,False,False,False,False,False,True,False
+AKIC,Amritsar–Kolkata Industrial Corridor,10633,"Victoria, Kolkata - WBPCB",West Bengal,25.8,24.3,-1.5,0.47,0.0,LOW,LOW,False,False,False,False,False,True,False
+ECEC,East Coast Economic Corridor,10633,"Victoria, Kolkata - WBPCB",West Bengal,25.8,24.3,-1.5,0.47,0.0,LOW,LOW,False,False,False,False,False,True,False
+CBIC,Chennai–Bengaluru Industrial Corridor,11579,"Kodungaiyur, Chennai - TNPCB",Tamil Nadu,42.8,40.19,-2.6099999999999994,0.0,0.0,MODERATE,MODERATE,True,False,True,False,False,False,True
+VCIC,Vizag–Chennai Industrial Corridor,11579,"Kodungaiyur, Chennai - TNPCB",Tamil Nadu,42.8,40.19,-2.6099999999999994,0.0,0.0,MODERATE,MODERATE,True,False,True,False,False,False,True
+ECEC,East Coast Economic Corridor,11579,"Kodungaiyur, Chennai - TNPCB",Tamil Nadu,42.8,40.19,-2.6099999999999994,0.0,0.0,MODERATE,MODERATE,True,False,True,False,False,False,True
+CBIC,Chennai–Bengaluru Industrial Corridor,11582,"Stuart Hill, Madikeri - KSPCB",Karnataka,6.5,5.23,-1.2699999999999996,0.0,1.0,LOW,LOW,False,False,False,False,True,False,False
+BMIC,Bengaluru–Mumbai Industrial Corridor,11582,"Stuart Hill, Madikeri - KSPCB",Karnataka,6.5,5.23,-1.2699999999999996,0.0,1.0,LOW,LOW,False,False,False,False,True,False,False
+DMIC,Delhi–Mumbai Industrial Corridor,227534,"Gyaspur, Ahmedabad - IITM",Gujarat,33.4,29.6,-3.799999999999997,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+DMIC,Delhi–Mumbai Industrial Corridor,228352,"Shastripuram, Agra - UPPCB",Uttar Pradesh,10.5,18.11,7.609999999999999,0.26,0.0,LOW,LOW,False,False,False,False,False,True,False
+AKIC,Amritsar–Kolkata Industrial Corridor,228352,"Shastripuram, Agra - UPPCB",Uttar Pradesh,10.5,18.11,7.609999999999999,0.26,0.0,LOW,LOW,False,False,False,False,False,True,False
+AKIC,Amritsar–Kolkata Industrial Corridor,229728,"Kamalnath Nagar, Bettiah - BSPCB",Bihar,13.0,16.91,3.91,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+AKIC,Amritsar–Kolkata Industrial Corridor,270721,"Mayaganj, Bhagalpur - BSPCB",Bihar,,,,,,,,False,False,False,False,False,False,False
+DMIC,Delhi–Mumbai Industrial Corridor,270777,"Jigar Colony, Moradabad - UPPCB",Uttar Pradesh,26.0,33.85,7.850000000000001,0.55,0.0,LOW,LOW,False,False,False,False,False,True,False
+AKIC,Amritsar–Kolkata Industrial Corridor,270777,"Jigar Colony, Moradabad - UPPCB",Uttar Pradesh,26.0,33.85,7.850000000000001,0.55,0.0,LOW,LOW,False,False,False,False,False,True,False
+CBIC,Chennai–Bengaluru Industrial Corridor,358448,"Kumaran College, Tirupur - TNPCB",Tamil Nadu,,,,,,,,False,False,False,False,False,False,False
+VCIC,Vizag–Chennai Industrial Corridor,358448,"Kumaran College, Tirupur - TNPCB",Tamil Nadu,,,,,,,,False,False,False,False,False,False,False
+ECEC,East Coast Economic Corridor,358448,"Kumaran College, Tirupur - TNPCB",Tamil Nadu,,,,,,,,False,False,False,False,False,False,False
+CBIC,Chennai–Bengaluru Industrial Corridor,3409345,"Parisutham Nagar, Thanjavur - TNPCB",Tamil Nadu,,,,,,,,False,False,False,False,False,False,False
+VCIC,Vizag–Chennai Industrial Corridor,3409345,"Parisutham Nagar, Thanjavur - TNPCB",Tamil Nadu,,,,,,,,False,False,False,False,False,False,False
+ECEC,East Coast Economic Corridor,3409345,"Parisutham Nagar, Thanjavur - TNPCB",Tamil Nadu,,,,,,,,False,False,False,False,False,False,False
+ECEC,East Coast Economic Corridor,3409380,"Tata Township, Bileipada - OSPCB",Odisha,34.0,36.82,2.8200000000000003,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+CBIC,Chennai–Bengaluru Industrial Corridor,3409392,"Kanuru, Vijayawada - APPCB",Andhra Pradesh,,,,,,,,False,False,False,False,False,False,False
+VCIC,Vizag–Chennai Industrial Corridor,3409392,"Kanuru, Vijayawada - APPCB",Andhra Pradesh,,,,,,,,False,False,False,False,False,False,False
+ECEC,East Coast Economic Corridor,3409392,"Kanuru, Vijayawada - APPCB",Andhra Pradesh,,,,,,,,False,False,False,False,False,False,False
+DMIC,Delhi–Mumbai Industrial Corridor,3409418,"Khatikan Mohalla, Dausa - RSPCB",Rajasthan,24.5,26.14,1.6400000000000006,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+DMIC,Delhi–Mumbai Industrial Corridor,3409419,"Railway Colony, Barmer - RSPCB",Rajasthan,8.25,10.67,2.42,0.22,0.0,LOW,LOW,False,False,False,False,False,True,False
+DMIC,Delhi–Mumbai Industrial Corridor,3409422,"Indra Nagar, Jhunjhunu - RSPCB",Rajasthan,6.5,7.91,1.4100000000000001,0.07,0.0,LOW,LOW,False,False,False,False,False,True,False
+DMIC,Delhi–Mumbai Industrial Corridor,3409431,"Digari Kalan, Jodhpur - RSPCB",Rajasthan,14.5,14.84,0.33999999999999986,0.34,0.0,LOW,LOW,False,False,False,False,False,True,False
+DMIC,Delhi–Mumbai Industrial Corridor,3409461,"Rachnakar Colony, Aurangabad - MPCB",Maharashtra,28.1,27.81,-0.2900000000000027,0.52,1.0,LOW,LOW,False,False,False,False,True,True,False
+BMIC,Bengaluru–Mumbai Industrial Corridor,3409461,"Rachnakar Colony, Aurangabad - MPCB",Maharashtra,28.1,27.81,-0.2900000000000027,0.52,1.0,LOW,LOW,False,False,False,False,True,True,False
+DMIC,Delhi–Mumbai Industrial Corridor,3409464,"Ambazari, Nagpur - MPCB",Maharashtra,23.4,28.99,5.59,0.5,2.0,LOW,MODERATE,False,False,False,False,True,True,True
+BMIC,Bengaluru–Mumbai Industrial Corridor,3409464,"Ambazari, Nagpur - MPCB",Maharashtra,23.4,28.99,5.59,0.5,2.0,LOW,MODERATE,False,False,False,False,True,True,True
+DMIC,Delhi–Mumbai Industrial Corridor,3409469,"Kasarvadavali, Thane - MPCB",Maharashtra,15.5,17.67,2.1700000000000017,0.4,0.0,LOW,LOW,False,False,False,False,False,True,False
+BMIC,Bengaluru–Mumbai Industrial Corridor,3409469,"Kasarvadavali, Thane - MPCB",Maharashtra,15.5,17.67,2.1700000000000017,0.4,0.0,LOW,LOW,False,False,False,False,False,True,False
+ECEC,East Coast Economic Corridor,3409506,"CDA Area, Cuttack - OSPCB",Odisha,19.0,21.5,2.5,0.0,0.0,LOW,LOW,False,False,False,False,False,False,False
+DMIC,Delhi–Mumbai Industrial Corridor,6266793,"Ashta Vinayak Nagar, Hingoli - MPCB",Maharashtra,13.5,14.7,1.1999999999999993,0.32,0.0,LOW,LOW,False,False,False,False,False,True,False
+BMIC,Bengaluru–Mumbai Industrial Corridor,6266793,"Ashta Vinayak Nagar, Hingoli - MPCB",Maharashtra,13.5,14.7,1.1999999999999993,0.32,0.0,LOW,LOW,False,False,False,False,False,True,False

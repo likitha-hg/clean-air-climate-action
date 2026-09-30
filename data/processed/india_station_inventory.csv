@@ -1,0 +1,764 @@
+station_id,station,locality,latitude,longitude,datetime_first,datetime_last,has_pm25,has_pm10,has_no2,has_so2,has_co,has_o3,all_six_pollutants
+12,SPARTAN - IIT Kanpur,,26.519,80.233,,,True,False,False,False,False,False,False
+13,"Delhi Technological University, Delhi - CPCB",,28.744,77.12,2016-11-02T19:00:00Z,2018-02-22T04:00:00Z,True,False,True,False,False,True,False
+15,IGI Airport,,28.56,77.094,,,True,True,True,False,True,True,False
+16,Civil Lines,,28.6787,77.2262,,,True,True,True,False,True,False,False
+17,"R K Puram, Delhi - DPCC",,28.563262,77.186937,2016-02-05T14:55:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+50,"Punjabi Bagh, Delhi - DPCC",,28.674045,77.131023,2016-02-05T14:55:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+103,"Income Tax Office, Delhi - CPCB",,28.623499999999996,77.2494,2016-11-02T18:30:00Z,2018-02-22T03:45:00Z,True,True,True,False,True,True,False
+235,"Anand Vihar, New Delhi - DPCC",,28.646835,77.316032,2016-02-05T14:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+236,"Mandir Marg, Delhi - DPCC",,28.6341,77.2005,2016-02-05T15:00:00Z,2018-02-21T21:15:00Z,True,True,True,True,True,True,True
+286,Collectorate - Gaya - BSPCB,,24.7489694,84.9438395,2016-03-21T17:00:00Z,2018-02-22T03:00:00Z,True,False,True,True,True,True,False
+301,"Vikas Sadan, Gurugram - HSPCB",,28.4501238,77.0263051,2016-03-25T08:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+346,"MD University, Rohtak - HSPCB",,28.876028,76.619464,2016-03-22T00:30:00Z,2018-02-22T03:45:00Z,True,True,True,True,True,True,True
+354,"Lalbagh, DN Park",,26.84578611,80.93874444,2016-03-21T10:00:00Z,2018-02-22T04:00:00Z,True,False,True,True,True,True,False
+378,Alandur Bus Depot,,12.99711389,80.19151667,2016-03-22T00:45:00Z,2018-02-22T03:45:00Z,True,False,True,True,True,True,False
+407,"Zoo Park, Hyderabad - TSPCB",,17.349694,78.451437,2016-03-21T19:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+412,"Peenya, Bengaluru - KSPCB",,13.0339,77.51321111,2016-03-22T03:15:00Z,2018-02-22T02:45:00Z,True,False,True,True,True,False,False
+431,"IHBAS, Delhi - CPCB",,28.6821,77.305,2016-04-10T18:30:00Z,2018-02-22T02:45:00Z,True,False,True,True,True,False,False
+594,"BTM Layout, Bengaluru - KSPCB",,12.912811110000002,77.60921944,2016-03-22T01:00:00Z,2018-02-22T03:00:00Z,True,False,True,True,True,True,False
+697,"Haldia, Haldia - WBPCB",,22.06047,88.109737,2016-03-22T01:00:00Z,2022-10-31T02:00:00Z,True,True,True,True,True,True,True
+703,Collectorate Jodhpur - RSPCB,,26.2920639,73.0379111111111,2016-03-21T18:30:00Z,2018-02-22T03:45:00Z,True,True,True,True,True,True,True
+716,"Rabindra Bharati University, Kolkata - WBSPCB",,22.627875,88.3804,2016-06-28T04:32:00Z,2017-10-28T14:30:00Z,True,True,True,True,True,True,True
+797,City Railway Station - KSPCB,,12.9773472,77.5706972222222,2016-03-21T14:00:00Z,2018-02-22T03:00:00Z,False,True,True,True,True,False,False
+854,Chandrapur,,19.95,79.3,2016-03-22T01:00:00Z,2018-02-22T04:00:00Z,True,True,True,True,True,True,True
+860,"Sanjay Palace, Agra - UPPCB",,27.19865833,78.00598056,2016-03-22T01:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+910,Victoria Memorial - WBSPCB,,22.572646,88.36389499999996,2016-06-25T09:45:00Z,2017-10-18T03:15:00Z,True,True,True,True,True,True,True
+985,Collectorate - Muzaffarpur - BSPCB,,26.0762,85.4115,2016-03-19T09:20:00Z,2018-02-21T23:45:00Z,True,False,True,True,True,True,False
+2345,VK Industrial Area Jaipur - RSPCB,,26.9738778,75.7738777777777,2016-03-21T18:30:00Z,2017-06-12T05:30:00Z,True,True,True,True,True,True,True
+2456,"Talkatora District Industries Center, Lucknow - CPCB",,26.83399722,80.8917361,2016-03-21T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+2459,US Diplomatic Post: Hyderabad,,17.443464,78.47489,2016-01-30T00:30:00Z,2016-11-09T16:30:00Z,True,False,False,False,False,False,False
+2460,US Diplomatic Post: Kolkata,,22.547142,88.351048,2016-01-30T00:30:00Z,2016-11-09T16:30:00Z,True,False,False,False,False,False,False
+2461,US Diplomatic Post: Chennai,,13.052371,80.251932,2016-01-30T00:30:00Z,2016-11-09T16:30:00Z,True,False,False,False,False,False,False
+2463,Central School,,26.85272778,80.99632778,2016-03-21T10:00:00Z,2018-02-22T04:00:00Z,True,False,True,True,True,True,False
+2503,"Shadipur, Delhi - CPCB",,28.651699999999998,77.1581,2016-03-21T23:30:00Z,2018-02-22T02:45:00Z,True,False,True,True,True,True,False
+2549,IIT,,12.992513890000001,80.23744722,2016-03-22T00:45:00Z,2018-02-22T03:45:00Z,True,False,True,True,True,True,False
+2583,"Sector-6, Panchkula - HSPCB",,30.7057778,76.8531805555555,2016-03-21T18:30:00Z,2026-09-17T13:00:00Z,True,False,True,True,True,True,False
+2585,AAQMS Karve Road Pune,,18.497484,73.81349,2016-03-21T08:00:00Z,2018-02-22T03:00:00Z,True,True,False,True,True,True,False
+2586,"Manali, Chennai - CPCB",,13.164544,80.26285,2016-03-21T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+2587,"Sector16A, Faridabad - HSPCB",,28.410122219999998,77.313775,2016-03-22T00:45:00Z,2018-02-22T03:25:00Z,True,True,True,True,True,True,True
+2589,SaneguravaHalli - KSPCB,,12.9916694,77.5458305555555,2016-03-21T18:30:00Z,2018-02-21T23:45:00Z,False,True,True,True,True,False,False
+2591,Ardhali Bazar,,25.35055556,82.97833333,2016-03-22T01:00:00Z,2018-02-22T03:00:00Z,True,True,True,True,True,True,True
+2592,"BWSSB Kadabesanahalli, Bengaluru - KSPCB",,12.93890556,77.69727222,2016-03-22T01:00:00Z,2018-02-22T03:00:00Z,True,False,True,True,True,True,False
+2593,IGSC Planetarium Complex - Patna - BSPCB,,25.3636,85.0755,2016-03-21T19:30:00Z,2018-02-22T03:45:00Z,True,False,True,True,True,True,False
+2594,"Sanathnagar, Hyderabad - TSPCB",,17.42329722,78.47469722,2016-03-22T10:00:00Z,2018-02-22T03:00:00Z,True,False,False,True,True,True,False
+2595,Nehru Nagar,,26.470308800000005,80.3251749,2016-03-21T22:45:00Z,2018-02-22T03:15:00Z,True,False,True,True,True,True,False
+2596,"Solapur, Solapur - MPCB",,17.6599188,75.9063906,2016-03-21T19:00:00Z,2025-06-23T05:30:00Z,True,True,True,True,True,True,True
+2597,US Diplomatic Post: New Delhi,,28.598096,77.189066,2016-01-30T00:30:00Z,2016-11-09T16:30:00Z,True,False,False,False,False,False,False
+2598,Navi Mumbai Municipal Corporation Airoli,,19.1494,72.9986,2016-03-21T18:30:00Z,2020-04-09T00:15:00Z,True,True,False,True,True,False,False
+5404,"Pusa, Delhi - IMD",,28.639645,77.146263,2017-09-15T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+5408,"Secretariat, Amaravati - APPCB",,16.5150833,80.5181667,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5443,"Mahakaleshwar Temple, Ujjain - MPPCB",,23.182719,75.768218,2017-11-20T06:00:00Z,2025-05-05T06:00:00Z,True,True,True,True,True,True,True
+5505,"Birla Staff colony, Satna - MPPCB",,24.5908256,80.8574279,2018-03-09T05:30:00Z,2018-03-14T03:30:00Z,True,True,False,True,True,False,False
+5509,"Anand Vihar, Delhi - DPCC",,28.647622000000002,77.315809,2018-03-09T03:30:00Z,2022-10-31T00:30:00Z,True,True,True,True,True,True,True
+5540,"Punjabi Bagh, Delhi - DPCC",,28.6670856,77.1301247,2018-03-09T03:30:00Z,2018-05-13T11:30:00Z,True,True,True,True,True,True,True
+5541,"Burari Crossing, New Delhi - IMD",,28.7256504,77.2011573,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+5542,"Civil Line, Jalandhar - PPCB",,31.321907,75.578914,2018-03-09T04:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5544,"Model Town, Patiala - PPCB",,30.349388,76.366642,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5546,Tata Stadium - Jorapokhar - JSPCB,,23.707909,86.41467,2018-03-09T05:30:00Z,2026-09-17T10:45:00Z,True,True,True,True,True,True,True
+5547,"BWSSB Kadabesanahalli, Bengaluru - CPCB",,12.9352049,77.6814488,2018-03-09T05:30:00Z,2022-08-02T05:15:00Z,True,True,True,True,True,True,True
+5548,"BTM Layout, Bengaluru - CPCB",,12.9135218,77.5950804,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5551,"Golden Temple, Amritsar - PPCB",,31.62,74.876512,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5552,"MD University, Rohtak - HSPCB",,28.870083,76.6205,2018-03-09T06:00:00Z,2020-01-01T11:00:00Z,True,False,True,True,True,True,False
+5558,"Alandur Bus Depot, Chennai - CPCB",,12.909916100000002,80.1076538,2018-03-09T05:30:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+5559,"Collectorate, Gaya - BSPCB",,24.7955,84.9994,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,False,True,True,True,True,False
+5565,"MIDC Khutala, Chandrapur - MPCB",,19.9775302,79.2337086,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5566,"Talcher Coalfields,Talcher - OSPCB",,20.9360711,85.1707021,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5569,"Punjab Agricultural University, Ludhiana - PPCB",,30.9028,75.8086,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5570,"Aya Nagar, New Delhi - IMD",,28.474261,77.131606,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+5574,"City Railway Station, Bengaluru - KSPCB",,12.9756843,77.5660749,2018-03-09T03:30:00Z,2026-09-15T23:45:00Z,False,True,True,True,True,False,False
+5576,"Moti Doongri, Alwar - RSPCB",,27.554793,76.611536,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5581,"Pusa, New Delhi - IMD",,28.610304,77.0996943,2018-03-09T06:00:00Z,2018-05-14T02:00:00Z,True,True,True,False,True,True,False
+5585,"Ashok Nagar, Udaipur - RSPCB",,24.5886166,73.6321397,2018-03-09T22:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5586,"Sirifort, Delhi - CPCB",,28.5504249,77.2159377,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5587,"Collectorate, Jodhpur - RSPCB",,26.268249,73.0193853,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5588,"RIICO Ind. Area III, Bhiwadi - RSPCB",,28.194909,76.862296,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5590,"Ardhali Bazar, Varanasi - UPPCB",,25.3505986,82.9083074,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5592,"Gangapur Road, Nashik - MPCB",,20.0073285,73.7762427,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5593,"Pimpleshwar Mandir, Thane - MPCB",,19.192056,72.9585188,2018-03-09T05:30:00Z,2022-10-16T11:45:00Z,True,True,True,True,True,True,True
+5594,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",,26.1209,85.3647,2018-03-09T06:00:00Z,2026-08-03T04:15:00Z,True,False,True,True,True,True,False
+5596,"Secretariat, Amaravati - APPCB",,16.5150833,80.5181667,2018-03-09T06:00:00Z,2022-10-31T02:00:00Z,True,True,True,True,True,True,True
+5598,"Sector - 125, Noida, UP - UPPCB",,28.5447608,77.3231257,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5599,"Bollaram Industrial Area, Hyderabad - TSPCB",,17.540891,78.358528,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5601,"Lajpat Nagar, Moradabad - UPPCB",,28.825341,78.7213009,2018-03-09T05:30:00Z,2022-01-13T05:45:00Z,True,True,True,True,True,True,True
+5602,"Asansol Court Area, Asansol - WBPCB",,23.685297,86.945968,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5603,"Sector-2 Industrial Area, Pithampur - MPPCB",,22.624758,75.675238,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5604,"Nishant Ganj, Lucknow - UPPCB",,26.871428,80.957145,2018-03-09T05:30:00Z,2019-08-21T08:15:00Z,True,False,True,True,True,True,False
+5607,"Peenya, Bengaluru - CPCB",,13.0270199,77.494094,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5608,"GM Office, Brajrajnagar - OSPCB",,21.8004996,83.8396977,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5609,"Anam Kala Kendram, Rajamahendravaram - APPCB",,16.9872867,81.7363176,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5610,"North Campus, DU, Delhi - IMD",,28.6573814,77.1585447,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+5611,"Chandrapur, Chandrapur - MPCB",,19.645324,77.6345232,2018-03-09T06:00:00Z,2022-10-31T02:00:00Z,True,True,True,True,True,True,True
+5612,"Shastri Nagar, Jaipur - RSPCB",,26.9502929,75.730943,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5613,"ITO, New Delhi - CPCB",,28.628624,77.24106,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5614,"Padmapukur, Howrah - WBPCB",,22.5687319,88.2797276,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5615,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",,23.5404352,87.2892225,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5616,"Sector - 62, Noida, UP - IMD",,28.6245479,77.3577104,2025-02-18T20:13:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+5617,"Sector- 16A, Faridabad - HSPCB",,28.4088421,77.3099081,2018-03-09T06:00:00Z,2022-10-31T02:00:00Z,True,True,True,True,True,True,True
+5619,"Vindhyachal STPS, Singrauli - MPPCB",,24.10897,82.64558,2018-03-09T06:00:00Z,2026-09-17T14:00:00Z,True,True,True,True,True,True,True
+5621,"Opp GPO Civil Lines, Nagpur - MPCB",,21.152875,79.0517531,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5622,"NSIT Dwarka, Delhi - CPCB",,28.60909,77.0325413,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5623,"Central University, Hyderabad - TSPCB",,17.460103,78.334361,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5624,"IDA Pashamylaram, Hyderabad - TSPCB",,17.5316895,78.218939,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5625,"RIMT University, Mandi Gobindgarh - PPCB",,30.649961,76.331442,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5626,"DTU, New Delhi - CPCB",,28.7500499,77.1112615,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5627,"CRRI Mathura Road, New Delhi - IMD",,28.5512005,77.2735737,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+5628,"GVM Corporation, Visakhapatnam - APPCB",,17.722682,83.308197,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5630,"Shadipur, Delhi - CPCB",,28.6514781,77.1473105,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5631,"Maninagar, Ahmedabad - GPCB",,23.002657,72.591912,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5632,"Sector-D Industrial Area, Mandideep - MPPCB",,23.10844,77.511428,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5633,"Police Commissionerate, Jaipur - RSPCB",,26.9164092,75.7994901,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5634,"Lodhi Road, New Delhi - IMD",,28.5918245,77.2273074,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+5635,"Adarsh Nagar, Jaipur - RSPCB",,26.902909,75.836858,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5636,"Shrinath Puram, Kota - RSPCB",,25.14389,75.821256,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5638,"Indira Colony Vistar, Pali - RSPCB",,25.771061,73.340227,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5639,"R K Puram, New Delhi - DPCC",,28.5646102,77.1670103,2018-03-09T03:30:00Z,2018-05-12T04:45:00Z,True,True,True,True,True,True,True
+5641,"Mandir Marg, New Delhi - DPCC",,28.6372688,77.2005604,2018-03-09T03:30:00Z,2018-05-12T04:30:00Z,True,True,True,True,True,True,True
+5642,"More Chowk Waluj, Aurangabad - MPCB",,19.8389439,75.244448,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5644,"Sanegurava Halli, Bengaluru - KSPCB",,12.990328,77.5431385,2018-03-09T06:00:00Z,2026-09-17T14:00:00Z,False,True,True,True,True,False,False
+5645,"ICRISAT Patancheru, Hyderabad - TSPCB",,17.5184,78.278777,2018-03-10T19:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5646,"Plammoodu, Thiruvananthapuram - Kerala PCB",,8.5149093,76.9435879,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5647,"Sanathnagar, Hyderabad - TSPCB",,17.4559458,78.4332152,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,False,True,True,True,True,False
+5648,"Ward-32 Bapupara, Siliguri - WBPCB",,26.6883049,88.412668,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5649,"Tirumala, Tirupati - APPCB",,13.67,79.35,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5650,"IGI Airport (T3), Delhi - IMD",,28.5627763,77.1180053,2025-02-18T20:16:00Z,2026-09-11T07:15:00Z,True,True,True,False,True,True,False
+5652,"IGSC Planetarium Complex, Patna - BSPCB",,25.5941,85.1376,2018-03-09T21:00:00Z,2026-09-17T14:30:00Z,True,False,True,True,True,True,False
+5655,"Velachery Res. Area, Chennai - CPCB",,13.0052189,80.2398125,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5657,"Central School, Lucknow - CPCB",,26.8821003,80.9302753,2018-03-09T05:30:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+5659,"Lalbagh, Lucknow - CPCB",,26.8458805,80.9365541,2018-03-09T03:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5661,"Karve Road Pune, Pune - MPCB",,18.5011743,73.8165527,2018-03-09T05:30:00Z,2025-05-23T15:30:00Z,True,True,True,True,True,True,True
+5662,"Nehru Nagar, Kanpur - UPPCB",,26.4703136,80.3229863,2018-03-09T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5664,"PWD Grounds, Vijayawada - APPCB",,16.507014,80.627767,2018-03-09T05:30:00Z,2020-11-20T08:15:00Z,True,True,True,True,True,True,True
+5665,"Vasundhara, Ghaziabad - UPPCB",,28.6603346,77.3572563,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5667,"Bhopal Chauraha, Dewas - MPPCB",,22.9682591,76.064118,2018-03-09T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+5742,"Patparganj, Delhi - DPCC",,28.6310495,77.2846218,2018-04-16T07:30:00Z,2018-05-13T11:30:00Z,True,True,True,True,False,True,False
+5743,"Rohini, Delhi - DPCC",,28.7407056,77.0577492,2018-04-26T02:45:00Z,2018-05-12T06:30:00Z,True,True,True,True,True,True,True
+5744,"Dr. Karni Singh Shooting Range, Delhi - DPCC",,28.4997315,77.2649067,2018-04-16T07:30:00Z,2018-05-12T04:45:00Z,True,True,True,True,True,True,True
+5745,"Ghusuri, Howrah - WBPCB",,22.5565568,87.895755,2018-05-09T13:15:00Z,2018-05-09T18:15:00Z,False,True,True,True,True,False,False
+5753,"Vivek Vihar, Delhi - DPCC",,28.6687803,77.3130982,2018-04-16T06:00:00Z,2018-05-12T06:00:00Z,True,True,True,True,True,True,True
+5754,"Jawaharlal Nehru Stadium, Delhi - DPCC",,28.5828503,77.2321778,2018-04-16T14:30:00Z,2018-05-12T06:30:00Z,True,True,True,True,True,True,True
+5755,"Major Dhyan Chand National Stadium, Delhi - DPCC",,28.6125027,77.2351994,2018-04-26T23:00:00Z,2018-05-12T04:30:00Z,True,True,True,True,True,True,True
+5759,"Sonia Vihar, Delhi - DPCC",,28.67795,77.29868,2018-04-16T06:00:00Z,2018-05-12T05:00:00Z,True,True,True,True,True,True,True
+5760,"Dwarka-Sector 8, Delhi - DPCC ",,28.5206826,76.8023871,2018-04-16T09:00:00Z,2018-05-12T05:00:00Z,True,True,True,True,True,True,True
+5761,"Jahangirpuri, Delhi - DPCC",,28.7258373,77.1605631,2018-04-16T07:30:00Z,2018-05-12T06:30:00Z,True,True,True,True,True,True,True
+5762,"Ashok Vihar, Delhi - DPCC",,28.6957202,77.1812947,2018-04-16T15:00:00Z,2018-05-12T06:00:00Z,True,True,True,True,True,True,True
+5763,"Narela, Delhi - DPCC",,28.8446874,77.0332666,2018-04-16T09:00:00Z,2018-05-12T06:00:00Z,True,True,True,True,True,True,True
+5765,"Okhla Phase-2, Delhi - DPCC",,28.5366411,77.2664587,2018-04-26T03:00:00Z,2018-05-13T10:00:00Z,True,True,True,True,True,True,True
+5766,"Nehru Nagar, Delhi - DPCC",,28.5639543,77.2587868,2018-04-15T20:00:00Z,2018-05-13T10:00:00Z,True,True,True,True,True,True,True
+6310,"Rabindra Bharati University, Kolkata - WBPCB",,22.5824635,88.35724470000001,2018-11-06T04:45:00Z,2022-03-24T23:30:00Z,True,True,True,True,True,True,True
+6314,"NISE Gwal Pahari, Gurugram - IMD",,28.4228859,76.8496963,2018-11-15T02:00:00Z,2018-11-16T04:00:00Z,True,True,True,False,True,False,False
+6356,"Pusa, Delhi - DPCC",,28.639645,77.146262,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6357,"Punjabi Bagh, Delhi - DPCC",,28.674045000000003,77.13102300000001,2018-08-10T06:00:00Z,2022-10-16T14:15:00Z,True,True,True,True,True,True,True
+6358,"Mandir Marg, New Delhi - DPCC",,28.636429,77.201067,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6359,"IHBAS, Dilshad Garden,New Delhi - CPCB",,28.6811736,77.3025234,2018-04-28T15:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6442,"Ratanpura, Rupnagar - Ambuja Cements",,31.0325454,76.5623046,2018-05-02T04:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,False,False
+6443,"Bandhavgar Colony, Satna - Birla Cement",,24.58434363,80.8549414,2018-04-16T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6920,"Manali Village, Chennai - TNPCB",,11.258244,77.552429,2019-06-18T23:00:00Z,2019-07-19T05:15:00Z,True,True,True,True,True,True,True
+6923,"New Mandi, Muzaffarnagar - UPPCB",,29.4723508,77.7194031,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6924,"Indirapuram, Ghaziabad - UPPCB",,28.646233,77.358075,2019-04-27T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6927,"Colaba, Mumbai - MPCB",,18.91,72.82,2019-06-28T05:30:00Z,2026-06-22T00:15:00Z,True,True,True,True,True,True,True
+6928,"Vasai West, Mumbai - MPCB",,19.3832,72.8204,2019-06-19T00:00:00Z,2026-05-13T09:15:00Z,True,True,True,True,True,True,True
+6929,"Major Dhyan Chand National Stadium, Delhi - DPCC",,28.611281,77.237738,2018-08-10T07:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6930,"Gobind Pura, Yamuna Nagar - HSPCB",,30.1480566,77.2893471,2019-02-13T02:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6931,"Dwarka-Sector 8, Delhi - DPCC",,28.5710274,77.0719006,2018-08-10T06:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6932,"Alipur, Delhi - DPCC",,28.815329,77.15301,2018-12-15T15:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6933,"Shasthri Nagar, Ratlam - IPCA Lab",,23.331731,75.045981,2019-01-03T14:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,False,False,False
+6934,"Dr. Karni Singh Shooting Range, Delhi - DPCC",,28.498571,77.26484,2018-08-10T06:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6935,"Urban Estate-II, Hisar - HSPCB",,29.14056,75.744941,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6936,"Arya Nagar, Bahadurgarh - HSPCB",,28.6701,76.9254,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6937,"Sector-10, Gandhinagar - GPCB",,23.221714,72.654328,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6938,"Vivek Vihar, Delhi - DPCC",,28.672342,77.31526,2018-12-15T15:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6939,"Hardev Nagar, Bathinda - PPCB",,30.233011,74.907758,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,False,False
+6940,"Kalal Majra, Khanna - PPCB",,30.736056,76.209694,2018-04-19T01:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6941,"Railway Colony, Guwahati - APCB",,26.144499999999997,91.7362,2019-04-27T11:30:00Z,2019-12-24T07:30:00Z,True,True,True,True,True,True,True
+6942,"Phase-4 GIDC, Vatva - GPCB",,22.969611,72.6435,2019-02-13T01:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6943,"Mahape, Navi Mumbai - MPCB",,19.1135051,73.008978,2019-06-27T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6944,"H.B. Colony, Bhiwani - HSPCB",,28.806223,76.141105,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6945,"Kurla, Mumbai - MPCB",,19.0863,72.8888,2019-06-19T00:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6946,"Belur Math, Howrah - WBPCB",,22.629801,88.352017,2019-06-18T23:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6947,"General Hospital, Mandikhera - HSPCB",,27.9002,76.9938,2019-02-13T00:15:00Z,2026-09-16T23:00:00Z,True,True,True,True,True,True,True
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",,19.10078,72.87462,2019-06-18T23:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6949,"Municipal Corporation Office, Dharuhera -  HSPCB",,28.2068,76.7997,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6950,"Jadavpur, Kolkata - WBPCB",,22.49929,88.36917,2019-06-18T23:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6951,"Murthal, Sonipat - HSPCB",,29.0272,77.0621,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6952,"F-Block, Sirsa - HSPCB",,29.5364,75.0158,2019-02-13T01:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6953,"Sector-2 IMT, Manesar - HSPCB",,28.360699,76.93609,2019-01-02T22:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6954,"Chikkaballapur Rural, Chikkaballapur - KSPCB",,13.428828,77.731418,2018-08-10T06:00:00Z,2026-09-17T08:00:00Z,True,True,True,True,True,True,True
+6955,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",,17.321993,76.822628,2018-08-14T02:00:00Z,2026-09-17T06:45:00Z,True,True,True,True,True,True,True
+6956,"Powai, Mumbai - MPCB",,19.1375,72.915056,2019-06-18T23:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6957,"Jawaharlal Nehru Stadium, Delhi - DPCC",,28.58028,77.233829,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6958,"Sector-18, Panipat - HSPCB",,29.435587,76.975531,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",,19.000083,72.813993,2019-06-20T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6960,"Patparganj, Delhi - DPCC",,28.623748,77.287205,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6961,"Shrivastav Colony, Damoh - MPPCB",,23.81748678,79.446246,2019-02-13T01:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,False,False
+6962,"GIDC, Ankleshwar - GPCB",,21.613267,73.010555,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6963,"Police Lines, Jind - HSPCB",,29.307814,76.337619,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6964,"Patti Mehar, Ambala - HSPCB",,30.379589,76.778328,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6965,"Borivali East, Mumbai - MPCB",,19.227474,72.864394,2019-06-20T16:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6966,"Udyogamandal, Eloor - Kerala PCB",,10.073232,76.302765,2019-06-18T23:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6967,"Sion, Mumbai - MPCB",,19.047,72.8746,2019-06-27T05:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6968,"Phase-1 GIDC, Vapi - GPCB",,20.362421,72.918013,2019-04-27T11:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6969,"Huda Sector, Fatehabad - HSPCB",,29.503664,75.467934,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6970,"Shastri Nagar, Narnaul - HSPCB",,28.060249,76.113115,2019-02-13T01:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6971,"Rishi Nagar, Kaithal - HSPCB",,29.8006,76.4155,2019-04-27T11:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6972,"Nathu Colony, Ballabgarh - HSPCB",,28.3419248,77.319699,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6973,"Jayanagar 5th Block, Bengaluru - KSPCB",,12.920984,77.584908,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6974,"Bapuji Nagar, Bengaluru - KSPCB",,12.951913,77.539784,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6975,"Silk Board, Bengaluru - KSPCB",,12.917348,77.622813,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6976,"Jai Bhim Nagar, Meerut - UPPCB",,28.9535882,77.7622941,2019-07-03T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6978,"Knowledge Park - III, Greater Noida - UPPCB",,28.47272,77.482,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6979,"New Collectorate, Baghpat - UPPCB",,28.974801000000003,77.21335699999999,2018-08-10T06:00:00Z,2022-01-31T04:45:00Z,True,True,True,True,True,True,True
+6980,"Sector-1, Noida - UPPCB",,28.589247,77.321962,2019-06-28T05:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6981,"Fort William, Kolkata - WBPCB",,22.55664,88.342674,2019-06-18T23:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6982,"Deshpande Nagar, Hubballi - KSPCB",,15.351773,75.140726,2025-02-18T20:15:00Z,2026-04-07T06:00:00Z,True,True,True,True,True,True,True
+6983,"Hombegowda Nagar, Bengaluru - KSPCB",,12.938539,77.5901,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6984,"Hebbal, Bengaluru - KSPCB",,13.029152,77.585901,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6985,"Yamunapuram, Bulandshahr - UPPCB",,28.406963,77.849831,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6986,"Knowledge Park - V, Greater Noida - UPPCB",,28.557054,77.453663,2019-06-28T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6987,"Vile Parle West, Mumbai - MPCB",,19.10861,72.83622,2019-06-18T23:00:00Z,2026-05-30T09:30:00Z,True,True,True,True,True,True,True
+6988,"Sector-116, Noida - UPPCB",,28.56923,77.393848,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7005,"Loni, Ghaziabad - UPPCB",,28.757294,77.278792,2019-04-27T11:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7044,"R K Puram, Delhi - DPCC",,28.563262000000005,77.186937,2018-08-10T06:00:00Z,2022-10-31T00:45:00Z,True,True,True,True,True,True,True
+7140,"Gomti Nagar, Lucknow - UPPCB",,26.86812,81.005119,2019-08-07T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7280,"Shyam Nagar, Palwal - HSPCB",,28.1485564,77.3320667,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7281,"Shyam Nagar, Palwal - HSPCB",,28.1485564,77.3320667,2020-01-01T10:15:00Z,2022-10-31T01:30:00Z,True,True,True,True,True,True,True
+7282,"Sector-7, Kurukshetra - HSPCB",,29.966942,76.875879,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7283,"MD University, Rohtak - HSPCB",,28.87793,76.620825,2020-01-01T11:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7289,"Hebbal 1st Stage, Mysuru - KSPCB",,12.21041,76.37376,2019-07-29T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7292,"Chhoti Gwaltoli, Indore - MPPCB",,22.431,75.5213,2019-09-23T09:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7299,"Gole Bazar, Katni - MPPCB",,23.833778,80.39122199999998,2019-09-23T09:15:00Z,2020-01-07T09:15:00Z,True,True,True,True,True,True,True
+7434,"East Arjun Nagar, Delhi - CPCB",,28.655601699999995,77.2859318,2018-08-10T06:00:00Z,2020-02-10T03:00:00Z,False,False,True,True,False,True,False
+7494,"SFTI Kusdihra, Gaya - BSPCB",,24.762518,84.982348,2020-03-02T09:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7495,"DRM Office Danapur, Patna - BSPCB",,25.586562,85.043586,2020-03-02T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7583,"ICRISAT Patancheru, Hyderabad - TSPCB",,17.305178,78.162863,2020-04-28T07:15:00Z,2020-04-28T09:45:00Z,True,True,True,True,True,True,True
+7720,"Pallavpuram Phase 2, Meerut - UPPCB",,29.06351,77.709723,2019-10-14T16:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7752,"Khadakpada, Kalyan - MPCB",,19.25292,73.142019,2019-07-11T11:15:00Z,2026-09-13T03:45:00Z,True,True,True,True,True,True,True
+7777,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",,17.321993,76.822628,2020-01-06T05:45:00Z,2022-10-31T01:00:00Z,True,True,True,True,True,True,True
+7833,"Ganga Nagar, Meerut - UPPCB",,28.999264,77.7590354,2019-10-14T16:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7850,"Bandra, Mumbai - MPCB",,19.0627,72.84614,2020-01-09T00:15:00Z,2021-12-24T04:45:00Z,True,True,True,True,True,True,True
+7880,"Sikulpuikawn, Aizawl - Mizoram PCB",,23.7176342,92.7192841,2020-03-19T04:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7901,"Corporation Ground, Thrissur- Kerala PCB",,10.522198,76.24085,2020-10-12T15:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+7979,"Deen Dayal Nagar, Sagar - MPPCB",,23.8640158,78.80289321,2020-02-03T08:30:00Z,2026-04-20T05:00:00Z,True,True,True,True,True,False,False
+8035,"Ibrahimpur, Vijayapura - KSPCB",,16.802639,75.722694,2020-01-20T12:00:00Z,2026-09-09T02:45:00Z,True,True,True,True,True,True,True
+8039,Mumbai,India,19.07283,72.88261,2016-11-09T19:00:00Z,2026-09-21T06:30:00Z,True,False,False,False,False,False,False
+8092,"East Arjun Nagar, Delhi - CPCB",,28.655935,77.294904,2020-02-29T21:00:00Z,2022-01-26T07:00:00Z,False,False,True,True,False,True,False
+8118,New Delhi,India,28.63576,77.22445,2016-11-09T19:00:00Z,2026-09-21T06:30:00Z,True,False,False,False,False,False,False
+8153,"Urban, Chamarajanagar - KSPCB",,11.55358,76.55521,2020-01-03T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8171,"GIDC, Nandesari - Nandesari Ind. Association",,22.410802,73.097923,2020-02-26T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,False,False
+8172,US Diplomatic Post: Kolkata,Kolkata,22.56263,88.36304,2022-10-03T20:00:00Z,2025-03-04T11:30:00Z,True,False,False,False,False,False,False
+8190,"Kariavattom, Thiruvananthapuram - Kerala PCB",,8.5637,76.8865,2020-02-17T10:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8235,"Jahangirpuri, Delhi - DPCC",,28.73282,77.170633,2018-08-10T07:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8239,"Okhla Phase-2, Delhi - DPCC",,28.530785,77.271255,2018-08-22T11:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8245,"Gole Bazar, Katni - MPPCB",,23.50016,80.23284,2020-01-07T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8319,"Anand Vihar, Hapur - UPPCB",,28.725645,77.749675,2018-10-23T11:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8365,"Nehru Nagar, Delhi - DPCC",,28.56789,77.250515,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8472,"Bawana, Delhi - DPCC",,28.7762,77.051074,2018-08-10T06:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8475,"Sonia Vihar, Delhi - DPCC",,28.710508,77.249485,2018-08-10T08:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8557,Hyderabad,India,17.38405,78.45636,2016-11-09T19:00:00Z,2026-04-06T04:30:00Z,True,False,False,False,False,False,False
+8558,Chennai,India,13.08784,80.278475,2022-10-03T20:00:00Z,2026-09-21T06:30:00Z,True,False,False,False,False,False,False
+8914,"SIDCO Kurichi, Coimbatore - TNPCB",,10.942451,76.978996,2025-02-18T20:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8915,"Wazirpur, Delhi - DPCC",,28.699793,77.165453,2018-12-15T15:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+8916,"Vyttila, Kochi - Kerala PCB",,9.969447,76.321186,2020-02-05T08:00:00Z,2022-10-16T16:00:00Z,True,True,True,True,True,True,True
+8917,"Ashok Vihar, Delhi - DPCC",,28.695381,77.181665,2018-12-15T15:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10484,"Sri Aurobindo Marg, Delhi - DPCC",,28.531346,77.190156,2018-12-15T15:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10485,"Narela, Delhi - DPCC",,28.822836,77.101981,2018-08-10T05:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10486,"Mundka, Delhi - DPCC",,28.684678,77.076574,2018-12-15T15:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10487,"Anand Vihar, Delhi - DPCC",,28.646835,77.316032,2018-08-13T11:00:00Z,2021-09-20T07:45:00Z,True,True,True,True,True,True,True
+10488,"Najafgarh, Delhi - DPCC",,28.570173,76.933762,2018-12-15T15:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10489,"ITO, Delhi - CPCB",,28.628624,77.24106,2020-01-20T08:15:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+10537,"Vidayagiri, Bagalkot - KSPCB",,16.172806,75.659694,2020-02-11T05:45:00Z,2026-08-12T16:00:00Z,True,True,True,True,True,True,True
+10545,"Civil Lines, Ajmer - RSPCB",,26.470859,74.646594,2018-04-16T03:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10599,"Rajbansi Nagar, Patna - BSPCB",,25.599486,85.113666,2019-12-26T05:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10609,"Hebbal 1st Stage, Mysuru - KSPCB",,12.210409999999998,76.37376,2020-01-03T12:00:00Z,2022-10-31T02:00:00Z,True,True,True,True,True,True,True
+10630,"Govt. High School Shikarpur, Patna - BSPCB",,25.592539,85.227158,2020-03-31T11:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10633,"Victoria, Kolkata - WBPCB",,22.5448082,88.3403691,2018-04-15T22:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10645,"Industrial Area, Hajipur - BSPCB",,25.697189,85.2459,2020-03-02T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10670,"Muradpur, Patna - BSPCB",,25.619651,85.147382,2019-12-26T05:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10695,"Ratanpura, Rupnagar - Ambuja Cements",,30.032545399999997,76.5623046,2020-01-30T10:00:00Z,2021-11-23T11:45:00Z,True,True,True,True,True,False,False
+10697,"Samanpura, Patna - BSPCB",,25.596727,85.085624,2019-12-26T05:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10725,"Mini Secretariat, Charkhi Dadri - HSPCB",,28.593883,76.270653,2020-04-23T08:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10747,"Thavakkara, Kannur - Kerala PCB",,11.875,75.3732,2020-02-11T05:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10780,"Manali Village, Chennai - TNPCB",,13.1662,80.2584,2019-07-19T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10820,"Sector 30, Faridabad - HSPCB",,28.4417,77.3217,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10823,"Buddha Colony, Muzaffarpur - BSPCB",,26.11442,85.39813,2020-08-24T17:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10825,"Sector-51, Gurugram - HSPCB",,28.4227,77.0667,2020-03-11T09:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10831,"Rohini, Delhi - DPCC",,28.732528,77.11992,2018-08-10T06:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10844,"Ghusuri, Howrah - WBPCB",,22.611968,88.347422,2018-05-11T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10851,"Bidhannagar, Kolkata - WBPCB",,22.58157048,88.41002457,2020-01-02T12:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10895,"Lumpyngngad, Shillong - Meghalaya PCB",,25.5586,91.8985,2019-09-17T09:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10896,"Chhoti Gwaltoli, Indore - MPPCB",,22.431,75.5213,2020-01-06T11:00:00Z,2022-10-16T16:00:00Z,True,True,True,True,True,True,True
+10897,"ICRISAT Patancheru, Hyderabad - TSPCB",,17.5184,78.278777,2020-04-28T10:45:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+10898,"Palayam, Kozhikode - Kerala PCB",,11.249077,75.78437099999998,2020-02-05T08:00:00Z,2022-10-16T04:45:00Z,True,True,True,True,True,True,True
+10900,"Teri Gram, Gurugram - HSPCB",,28.4275,77.1465,2020-03-30T16:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10901,"PWD Juction, Kohima - NPCB",,25.6635413,94.0989878,2020-09-03T20:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10902,"Kalyana Nagara, Chikkamagaluru - KSPCB",,13.328028,75.797056,2020-02-03T09:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10903,"Railway Colony, Guwahati - APCB",,26.181742,91.78063,2019-12-24T09:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10904,"Rabindra Sarobar, Kolkata - WBPCB",,22.51106,88.35142,2019-08-09T07:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10905,"Rishi Nagar, Kaithal - HSPCB",,29.8006,76.4155,2019-08-07T07:00:00Z,2022-10-31T02:00:00Z,True,True,True,True,True,True,True
+10906,"Murthal, Sonipat - HSPCB",,29.027199999999997,77.0621,2020-01-02T08:00:00Z,2022-10-16T16:00:00Z,True,True,True,True,True,True,True
+10907,"City Center, Gwalior - MPPCB",,26.203442,78.193251,2020-02-03T09:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10908,"Sector 11, Faridabad - HSPCB",,28.376058,77.315741,2020-03-11T08:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10909,"Vijay Nagar, Ramanagara - KSPCB",,12.733409,77.298051,2019-09-23T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10910,"Sector-12, Karnal - HSPCB",,29.6953,77.0027,2019-02-13T00:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10911,"Marhatal, Jabalpur - MPPCB",,23.168606,79.932247,2019-09-23T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10912,"Phool Bagh, Gwalior - Mondelez Ind. Food",,26.210536,78.171,2020-02-03T08:00:00Z,2025-02-20T04:45:00Z,True,True,True,True,True,False,False
+10913,"T T Nagar, Bhopal - MPPCB",,23.233584,77.400574,2019-09-23T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10914,"Sector-25, Chandigarh - CPCC",,30.751462,76.762879,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10915,"Polayathode, Kollam - Kerala PCB",,8.8787,76.6073,2020-03-03T06:30:00Z,2026-08-21T09:15:00Z,True,True,True,True,True,True,True
+10916,"Kacheripady, Ernakulam - Kerala PCB",,9.985653,76.281342,2020-02-05T08:00:00Z,2022-10-16T16:00:00Z,True,True,True,True,True,False,False
+10917,"Sahilara, Maihar - KJS Cements",,24.2613009,80.7231783,2019-02-11T18:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,False,False
+10918,"Ballygunge, Kolkata - WBPCB",,22.5367507,88.3638022,2020-01-02T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10919,"Sanjay Nagar, Ghaziabad - UPPCB",,28.685382,77.453839,2019-04-27T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10920,"New Industrial Town, Faridabad - HSPCB",,28.39072,77.30059,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+10921,"NISE Gwal Pahari, Gurugram - IMD",,28.422681,77.148944,2018-11-16T09:00:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+11577,"Vinoba Nagara, Shivamogga - KSPCB",,13.94,75.555917,2020-11-08T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+11578,"Royapuram, Chennai - TNPCB",,13.1036,80.2909,2020-11-08T14:00:00Z,2026-09-10T12:45:00Z,True,True,True,True,True,True,True
+11579,"Kodungaiyur, Chennai - TNPCB",,13.1278,80.2642,2020-11-08T14:00:00Z,2026-09-10T13:30:00Z,True,True,True,True,True,True,True
+11580,"Meelavittan, Thoothukudi - TNPCB",,8.816428,78.099039,2020-11-08T14:00:00Z,2026-09-14T09:45:00Z,False,True,True,True,True,True,False
+11581,"Arumbakkam, Chennai - TNPCB",,13.0664,80.2112,2020-11-08T12:00:00Z,2026-09-10T14:15:00Z,True,True,True,True,False,False,False
+11582,"Stuart Hill, Madikeri - KSPCB",,12.415911,75.73505,2020-11-08T14:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+11583,"Kunjaban, Agartala - Tripura SPCB",,23.8628276,91.2887362,2020-11-08T14:00:00Z,2022-10-16T16:00:00Z,True,True,True,True,True,True,True
+11602,"Bandra Kurla Complex, Mumbai - IITM",,19.053536000000005,72.84643,2020-11-13T12:15:00Z,2022-10-16T15:45:00Z,True,True,True,True,True,True,True
+11603,"Chandni Chowk, Delhi - IITM",,28.656756,77.227234,2020-11-13T12:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+11604,"Deonar, Mumbai - IITM",,19.04946,72.923,2020-11-13T12:15:00Z,2022-10-16T15:45:00Z,True,True,True,True,True,True,True
+11606,"Borivali East, Mumbai - IITM",,19.23241,72.86895,2020-11-13T12:30:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+11607,"Lodhi Road, Delhi - IITM",,28.588333,77.221667,2020-11-13T12:00:00Z,2025-12-27T06:00:00Z,True,True,True,True,True,True,True
+11608,"Bhosari, Pune - IITM",,18.640051,73.848956,2020-11-13T12:15:00Z,2022-07-07T04:45:00Z,True,True,True,False,True,True,False
+11609,"Mhada Colony, Pune - IITM",,18.57304,73.927715,2020-11-13T12:15:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+11610,"Transport Nagar-Nigdi, Pune - IITM",,18.664282,73.763966,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+11611,"Malad West, Mumbai - IITM",,19.19709,72.82204,2020-11-13T12:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+11612,"Sector-19A Nerul, Navi Mumbai - IITM",,19.044,73.03250000000001,2020-11-13T12:00:00Z,2022-10-16T16:00:00Z,True,True,True,True,True,True,True
+11613,"Revenue Colony-Shivajinagar, Pune - IITM",,18.530085,73.849598,2020-11-13T12:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+12024,"Chakala-Andheri East, Mumbai - IITM",,19.11074,72.86084,2020-12-08T09:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+12039,"Khindipada-Bhandup West, Mumbai - IITM",,19.164394,72.928297,2020-12-16T12:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+12040,"Mulund West, Mumbai - MPCB",,19.175,72.9419,2020-12-16T12:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+12041,"Diwator Nagar, Koppal - KSPCB",,15.34763,76.181767,2020-12-16T07:45:00Z,2026-07-31T05:15:00Z,True,True,True,True,True,True,True
+12043,"Haji Colony, Raichur - KSPCB",,16.208139,77.348417,2020-12-16T07:45:00Z,2026-04-14T17:15:00Z,True,True,True,True,True,True,True
+12044,"Kandivali East, Mumbai - MPCB",,19.2058,72.8682,2020-12-16T12:30:00Z,2026-04-18T05:45:00Z,True,True,True,True,True,True,True
+12045,"IITK, Kanpur - IITK",,26.511738999999995,80.235136,2020-12-16T08:00:00Z,2022-10-16T16:00:00Z,True,False,False,False,True,True,False
+12046,"Perungudi, Chennai - TNPCB",,12.9533,80.2357,2025-02-18T20:15:00Z,2026-09-10T14:30:00Z,True,True,True,True,True,True,True
+42240,"Pan Bazaar, Guwahati - APCB",,26.1875,91.744194,2020-12-28T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+44513,"Kadri, Mangalore - KSPCB",,12.88925,74.853,2021-01-04T05:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+44514,"Naubad, Bidar - KSPCB",,17.930306,77.482194,2021-01-04T05:15:00Z,2026-04-19T03:26:00Z,True,True,True,True,True,True,True
+44515,"Panchal Nagar, Gadag - KSPCB",,15.411456,75.638133,2021-01-04T05:15:00Z,2026-09-16T05:00:00Z,True,True,True,True,True,True,True
+45008,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",,13.4127,80.1081,2021-01-05T08:00:00Z,2026-09-10T17:45:00Z,True,True,True,True,True,True,True
+60656,"Tamaka Ind. Area, Kolar - KSPCB",,13.1276288,78.1570122,2021-01-12T11:45:00Z,2026-09-01T08:00:00Z,True,True,True,True,True,True,True
+60657,"Devaraj Urs Badavane, Davanagere - KSPCB",,14.4758,75.9052,2021-01-12T14:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+60658,"Hadapsar, Pune - IITM",,18.501793,73.927532,2021-01-12T14:00:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+60659,"Jawahar Nagar, Puducherry - PPCC",,11.9309,79.8027,2021-01-12T15:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+60660,"MIT-Kothrud, Pune - IITM",,18.517754,73.8214883,2021-01-12T14:00:00Z,2022-07-11T05:15:00Z,True,True,True,False,True,True,False
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",,19.000083,72.813993,2021-01-12T14:00:00Z,2022-10-16T16:00:00Z,True,True,True,False,True,True,False
+220265,"Rajbagh, Srinagar - JKSPCB",,34.06621,74.81982,2021-02-09T07:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+220353,"Brahmagiri, Udupi - KSPCB",,13.34194,74.74694,2021-02-10T08:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+223145,"B.Katihalli, Hassan - KSPCB",,13.008556,76.12525800000002,2021-03-26T04:30:00Z,2022-10-16T15:45:00Z,True,True,True,True,True,True,True
+223146,"Naharlagun, Naharlagun - APSPCB",,27.103358,93.679645,2021-03-26T04:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+227384,"Jhunsi, Prayagraj - UPPCB",,25.425601999999998,81.917152,2021-06-02T18:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+227386,"B R Ambedkar University, Lucknow - UPPCB",,26.766433000000003,80.927299,2021-06-02T18:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+227387,"Motilal Nehru NIT, Prayagraj - UPPCB",,25.494,81.863,2021-06-02T07:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+227533,"Rakhial, Ahmedabad - IITM",,23.016834,72.625775,2021-06-04T17:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+227534,"Gyaspur, Ahmedabad - IITM",,22.977134,72.553024,2021-06-04T17:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+227535,"Manoharpur, Agra - UPPCB",,27.237109999999998,78.01935999999999,2021-06-04T18:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+227536,"Chandkheda, Ahmedabad - IITM",,23.107969,72.574648,2021-06-04T18:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+227931,"Sector-3B Avas Vikas Colony, Agra - UPPCB",,27.19412,77.96236999999999,2021-06-12T16:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+228297,"SVPI Airport Hansol, Ahmedabad - IITM",,23.076793,72.627874,2021-06-18T21:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+228298,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",,23.04307,72.56296800000001,2021-06-18T22:00:00Z,2025-08-29T16:00:00Z,True,True,True,True,True,True,True
+228299,"GIFT City, Gandhinagar - IITM",,23.163798,72.677768,2021-06-18T22:00:00Z,2022-07-07T09:00:00Z,True,True,True,True,True,True,True
+228300,"SAC ISRO Satellite, Ahmedabad - IITM",,23.023389,72.515201,2021-06-18T21:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+228301,"IIPHG Lekawada, Gandhinagar - IITM",,23.243639,72.68994,2021-06-18T22:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+228303,"SAC ISRO Bopal, Ahmedabad - IITM",,23.041137,72.456691,2021-06-18T21:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+228352,"Shastripuram, Agra - UPPCB",,27.198620000000002,77.92066,2021-06-20T21:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+228397,"IESD Banaras Hindu University, Varanasi - UPPCB",,25.262326,82.995408,2021-06-21T23:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+228403,"Bhelupur, Varanasi - UPPCB",,25.301778,82.996789,2021-06-22T02:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+228840,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",,26.730136,83.433859,2021-06-30T23:00:00Z,2026-09-16T16:30:00Z,True,True,True,True,True,True,True
+229195,"Maldahiya, Varanasi - UPPCB",,25.323929999999997,82.99687,2021-07-08T08:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+229252,"NSI Kalyanpur, Kanpur - UPPCB",,26.509953999999997,80.249612,2021-07-09T17:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+229404,"Kukrail Picnic Spot-1, Lucknow - UPPCB",,26.90723,80.98579000000001,2021-07-12T21:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+229473,blore_India_07_14_official,,13.003347077,77.628012188,,,True,False,False,False,False,False,False
+229728,"Kamalnath Nagar, Bettiah - BSPCB",,26.80365,84.51954,2021-07-17T22:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+229729,"Nagla Bhau, Firozabad - UPPCB",,27.168896999999998,78.37696,2021-07-17T23:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+229730,"Town Hall - Lal Bagh, Darbhanga - BSPCB",,26.151459999999997,85.89342,2021-07-17T22:00:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+229731,"Gandak Colony, Motihari - BSPCB",,26.63086,84.90051,2021-07-17T22:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+229985,"D M Colony, Bihar Sharif - BSPCB",,25.204762,85.51496,2021-07-22T09:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+229987,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",,26.1403345,85.3650192,2021-07-22T09:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+233414,"Omex Eternity, Vrindavan - UPPCB",,27.571409000000003,77.655757,2021-08-25T17:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+233415,"Sector 22, Chandigarh - CPCC",,30.735567,76.77571400000001,2021-08-25T16:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+233416,"Nagar Nigam, Prayagraj - UPPCB",,25.44919916,81.82735986,2021-08-25T17:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+234568,"FTI Kidwai Nagar, Kanpur - UPPCB",,26.428282,80.327067,2021-09-03T11:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+234997,"Dharmapuri, Agra - UPPCB",,27.169338,78.03582,2021-09-07T08:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+236406,"Mangala, Bilaspur - CECB",,22.08815,82.13736999999999,2021-09-22T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,False,False
+270697,"Employment Office, Moradabad - UPPCB",,28.885279999999998,78.7388,2021-11-10T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270703,"Dada Peer, Sasaram - BSPCB",,24.952822,84.00239599999999,2021-11-12T11:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270704,"Town Hall, Munger - BSPCB",,25.376776,86.471523,2021-11-12T11:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270708,"Civic Center, Bhilai - Bhilai Steel Plant",,21.185571,81.343175,2021-11-16T10:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270720,"Mirchaibari, Katihar - BSPCB",,25.560083,87.553265,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270721,"Mayaganj, Bhagalpur - BSPCB",,25.265194,87.012947,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270722,"Central Jail, Buxar - BSPCB",,25.555605,83.950942,2021-11-22T16:45:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+270723,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",,25.251013,86.989001,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270724,"Kareemganj, Gaya - BSPCB",,24.792403,84.992416,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270725,"Mariam Nagar, Purnia - BSPCB",,25.765657,87.466829,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270726,"Chitragupta Nagar, Siwan - BSPCB",,26.2271665,84.35704270000001,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270727,"SDM Office_Khagra, Kishanganj - BSPCB",,26.0881305,87.93840336,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270728,"Police Line, Saharsa - BSPCB",,25.892357,86.590325,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270729,"Darshan Nagar, Chhapra - BSPCB",,25.780825699999998,84.7446768,2021-11-22T17:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270730,"Dangi Tola, Rajgir - BSPCB",,25.0328,85.41948000000001,2021-11-23T12:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270737,"Forest Rest House, Manguraha - BSPCB",,27.307773,84.529114,2021-12-02T03:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270771,"Buddhi Vihar, Moradabad - UPPCB",,28.835259999999998,78.7446,2021-12-10T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270774,"New DM Office, Arrah - BSPCB",,25.5626095,84.663264,2021-12-16T11:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270775,"Kharahiya Basti, Araria - BSPCB",,26.146529,87.454184,2021-12-16T21:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270777,"Jigar Colony, Moradabad - UPPCB",,28.856664000000002,78.772638,2021-12-18T08:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+270877,"Eco Herbal Park, Moradabad - UPPCB",,28.840739000000003,78.69753100000001,2022-01-20T11:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+278159,"Rohta, Agra - UPPCB",,27.106972,78.000111,2022-01-28T05:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+278418,"Sector-53, Chandigarh - CPCC",,30.719859000000003,76.738637,2022-01-31T07:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+278671,"Shivaji Nagar, Jhansi - UPPCB",,25.4547,78.6039,2022-02-04T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+301387,"Raikhad, Ahmedabad - IITM",,23.020509,72.579261,2022-03-24T21:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+301388,"Sardar Patel Inter College, Baghpat - UPPCB",,28.964949,77.278761,2022-03-24T21:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+301389,"HIMUDA Complex Phase-1, Baddi - HPPCB",,30.943887,76.801991,2022-03-24T20:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+301390,"Bardowali, Agartala - Tripura SPCB",,23.8175497,91.2726974,2022-03-24T21:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+301391,"DM Office_Kasipur, Samastipur - BSPCB",,25.859655,85.77944000000001,2022-03-24T20:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+301670,"Collector Office, Yadgir - KSPCB",,16.7602,77.1428,2022-03-24T23:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+304956,"Gurdeo Nagar, Aurangabad - BSPCB",,24.757460000000002,84.366208,2022-03-30T10:45:00Z,2026-09-04T08:15:00Z,True,True,True,True,True,True,True
+306252,"DRCC Anandpur, Begusarai - BSPCB",,25.444266,86.140169,2022-04-04T12:45:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+307463,"Zero Point GICI, Gangtok - SSPCB",,27.338529999999995,88.614099,2022-04-06T13:00:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+309803,"Ashwini Nagar, Haveri - KSPCB",,14.7918,75.38959999999999,2022-04-11T12:00:00Z,2022-10-16T16:00:00Z,True,True,True,True,True,True,True
+313410,"DM College of Science, Imphal - Manipur PCB",,24.8207389,93.94230849999998,2022-04-18T13:00:00Z,2022-10-31T02:00:00Z,True,True,True,True,True,True,True
+313411,"JN Stadium, Shillong - Meghalaya PCB",,25.5803419,91.8942571,2022-04-18T13:00:00Z,2026-09-03T05:45:00Z,True,True,True,True,True,True,True
+313923,"Manipur University, Imphal - Manipur PCB",,24.7524239,93.92862179999999,2022-04-19T06:00:00Z,2022-10-15T09:45:00Z,True,True,True,True,True,True,True
+317035,"Doon University, Dehradun - UKPCB",,30.269444,78.044167,2022-04-22T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+330021,"Vibhab Nagar, Firozabad - UPPCB",,27.1594,78.3953,2022-05-04T07:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+344103,"ECIL Kapra, Hyderabad - TSPCB",,17.470431,78.566959,2022-05-26T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+344104,"Kompally Municipal Office, Hyderabad - TSPCB",,17.544898999999997,78.486949,2022-05-26T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+344140,"Somajiguda, Hyderabad - TSPCB",,17.417094,78.457437,2022-05-26T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+344142,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",,17.429398,78.569354,2022-05-26T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+344144,"IITH Kandi, Hyderabad - TSPCB",,17.585704999999997,78.126199,2022-05-26T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+346257,"Ramachandrapuram, Hyderabad - TSPCB",,17.528544,78.28619499999999,2022-06-02T08:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+346258,"Kokapet, Hyderabad - TSPCB",,17.393559,78.33919399999999,2022-06-02T08:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+346438,"Rajendra Nagar, Bareilly - UPPCB",,28.38910936,79.42963708,2022-06-02T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+346439,"Kalindi Kunj, Khurja - UPPCB",,28.234892699999996,77.8683002,2022-06-02T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+352465,"New Malakpet, Hyderabad - TSPCB",,17.37206,78.50864,2022-06-16T07:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+352777,"Kashiram Nagar, Moradabad - UPPCB",,28.849399,78.742362,2022-06-20T09:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+353715,"Transport Nagar, Moradabad - UPPCB",,28.802625,78.75372800000001,2022-07-04T07:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+358448,"Kumaran College, Tirupur - TNPCB",,11.0973603,77.3228673,2022-09-13T11:00:00Z,2026-04-14T23:45:00Z,True,True,True,True,True,True,True
+358450,"Bombay Castel, Ooty - TNPCB",,11.4068288,76.7138973,2022-09-13T12:00:00Z,2026-04-24T18:15:00Z,True,True,True,True,True,True,True
+358451,"Vasanthapuram, Vellore - TNPCB",,12.909494,79.131861,2022-09-13T12:00:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+358452,"Chalai Bazaar, Ramanathapuram - TNPCB",,9.36399,78.831977,2022-09-13T12:00:00Z,2026-09-02T08:45:00Z,True,True,True,True,True,True,True
+358453,"Mendonsa Colony, Dindigul - TNPCB",,10.358535,77.984321,2022-09-13T12:00:00Z,2026-07-11T02:15:00Z,True,True,True,True,True,True,True
+358454,"SIPCOT Phase-1, Hosur - TNPCB",,12.746998,77.813811,2022-09-13T12:00:00Z,2022-10-31T01:45:00Z,True,True,True,True,True,True,True
+358455,"Sona College of Technology, Salem - TNPCB",,11.679111,78.125052,2022-09-13T12:15:00Z,2022-10-03T12:30:00Z,True,True,True,True,True,True,True
+358456,"Gulzarpet, Anantapur - APPCB",,14.675885999999998,77.593027,2022-09-13T11:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+358457,"PSG College of Arts and Science, Coimbatore - TNPCB",,11.0328,77.0349,2022-09-13T12:00:00Z,2026-07-02T05:15:00Z,True,True,True,True,True,True,True
+358467,"Civil Lines, Bareilly - UPPCB",,28.359581,79.414455,2022-09-13T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+358627,"Crescent University, Chengalpattu - TNPCB",,12.877731599999999,80.08348070000001,2022-09-15T14:00:00Z,2026-01-10T12:00:00Z,True,True,True,True,True,True,True
+358665,"Ramteerth Nagar, Belgaum - KSPCB",,15.888653,74.541751,2022-09-15T21:45:00Z,2026-09-11T07:00:00Z,True,True,True,True,True,True,True
+361378,"Paryavaran Parisar, Bhopal - MPPCB",,23.210494,77.425409,2022-09-19T06:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+361411,"IITG, Guwahati - PCBA",,26.2028636,91.70046436,2022-09-19T12:45:00Z,2022-10-16T12:15:00Z,True,True,True,True,True,True,True
+363601,"Girls College, Sivasagar - PCBA",,26.987634000000003,94.636574,2022-09-29T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+1236037,Dhopagachi,,22.3743,88.415,2023-07-15T13:00:00Z,2026-06-24T00:00:00Z,True,True,False,False,False,False,False
+1285345,SPARTAN - IIT Kanpur,Kanpur,26.5128,80.2316,2019-10-21T13:00:00Z,2019-11-25T13:00:00Z,True,False,False,False,False,False,False
+2498781,SiriJaya,,12.909153635368195,77.52476183092863,2024-03-01T17:00:00Z,2025-05-19T02:00:00Z,True,True,False,False,False,False,False
+2860223,GK1 (Oberoi Terrace),,28.5500047,77.2431058,2024-05-22T11:00:00Z,2026-09-20T20:00:00Z,True,True,False,False,False,False,False
+3024966,NASA GSFC Rutgers Calib. N8,,28.31733,76.91603,2024-08-20T06:43:12Z,2026-09-20T19:51:32Z,True,False,False,False,False,False,False
+3174188,Malav,,22.70763,75.85257,2023-01-09T12:30:00Z,2024-06-30T17:30:00Z,True,False,False,False,True,False,False
+3174189,Bicholi Hapsi,,22.71771,75.93739,2023-01-09T09:30:00Z,2024-06-30T17:30:00Z,True,False,False,False,False,False,False
+3174190,Musakhedi,,22.6967,75.89488,2023-01-09T07:30:00Z,2024-06-30T17:30:00Z,True,False,False,False,False,False,False
+3409309,"Lajpat Nagar, Moradabad - UPPCB",,28.825341,78.7213009,2025-08-14T05:15:00Z,2025-08-14T05:30:00Z,True,True,True,True,True,True,True
+3409312,"BWSSB Kadabesanahalli, Bengaluru - CPCB",,12.9352049,77.6814488,2025-10-18T06:45:00Z,2026-07-25T05:30:00Z,True,True,True,True,True,True,True
+3409317,"Chauhan Colony, Chandrapur - MPCB",,19.9629,79.298714,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409318,"Central School, Lucknow - CPCB",,26.8821003,80.9302753,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409319,"Alandur Bus Depot, Chennai - CPCB",,12.9099161,80.1076538,2025-02-18T20:15:00Z,2025-12-02T11:00:00Z,True,True,True,True,True,True,True
+3409320,"Rabindra Bharati University, Kolkata - WBPCB",,22.627875,88.3804,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409321,Haldia - WBSPCB,,22.06047,88.109737,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409322,"Pimpleshwar Mandir, Thane - MPCB",,19.192056,72.9585188,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409323,"Worli, Mumbai - MPCB",,18.9936162,72.8128113,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409327,"Kunjaban, Agartala - Tripura SPCB",,23.8628276,91.2887362,2026-05-30T11:00:00Z,2026-05-30T11:00:00Z,True,True,True,True,True,True,True
+3409328,"Bandra Kurla Complex, Mumbai - IITM",,19.0627,72.84614,2025-04-07T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409329,"Deonar, Mumbai - IITM",,19.04946,72.923,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409330,"Sector-19A Nerul, Navi Mumbai - IITM",,19.044,73.0325,2025-09-28T00:00:00Z,2025-09-28T00:00:00Z,False,True,True,False,False,False,False
+3409331,"Bhosari, Pune - IITM",,18.640051,73.848956,2025-02-25T12:30:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+3409334,"Ashwini Nagar, Haveri - KSPCB",,14.7918,75.3896,2025-02-24T07:00:00Z,2026-09-16T11:15:00Z,True,True,True,True,True,True,True
+3409335,"B.Katihalli, Hassan - KSPCB",,13.008556,76.125258,2025-02-18T20:15:00Z,2026-06-22T11:45:00Z,True,True,True,True,True,True,True
+3409336,"GIFT City, Gandhinagar - IITM",,23.163798,72.677768,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409338,"DRCC Anandpur, Begusarai - BSPCB",,25.444266,86.140169,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409339,"Central Jail, Buxar - BSPCB",,25.555605,83.950942,2025-02-18T20:15:00Z,2026-09-10T03:00:00Z,True,True,True,True,True,True,True
+3409340,"Zero Point GICI, Gangtok - SSPCB",,27.33853,88.614099,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409341,"Manipur University, Imphal - Manipur PCB",,24.752423899999997,93.9286218,2025-02-18T20:15:00Z,2025-07-25T07:45:00Z,True,True,True,True,True,True,True
+3409342,"DM College of Science, Imphal - Manipur PCB",,24.8207389,93.9423085,2025-02-19T05:45:00Z,2025-09-07T01:45:00Z,True,True,True,True,True,True,True
+3409343,"Keelapalur, Ariyalur - TNPCB",,11.06825,79.07033,2025-02-18T20:15:00Z,2026-02-19T23:00:00Z,True,True,True,True,False,True,False
+3409344,"Municipal Corporation Office, Tirunelveli - TNPCB",,8.728442,77.6962,2025-02-18T20:15:00Z,2025-12-19T03:30:00Z,True,True,True,True,True,True,True
+3409345,"Parisutham Nagar, Thanjavur - TNPCB",,10.7654824,79.1389968,2025-02-18T20:15:00Z,2026-03-11T10:00:00Z,True,True,True,True,True,True,True
+3409346,"Semmandalam, Cuddalore - TNPCB",,11.7637683,79.7499835,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+3409347,"SIPCOT Phase-1, Hosur - TNPCB",,12.746998,77.813811,2025-03-14T16:00:00Z,2025-11-15T05:00:00Z,True,True,True,True,True,True,True
+3409348,"Uchapatti, Madurai - TNPCB",,9.865935,78.022669,2025-02-18T20:15:00Z,2026-08-25T10:30:00Z,True,True,True,True,True,True,True
+3409349,"Vasanthapuram, Vellore - TNPCB",,12.909494,79.131861,2025-02-18T20:15:00Z,2025-12-09T06:30:00Z,True,True,True,True,True,True,True
+3409350,"Velippalayam, Nagapattinam - TNPCB",,10.798548,79.838212,2025-02-18T20:15:00Z,2026-04-29T05:30:00Z,True,True,True,True,True,True,True
+3409351,"VOC Nagar_SIPCOT, Ranipet - TNPCB",,12.952707,79.30394,2025-02-18T20:15:00Z,2025-10-31T04:45:00Z,True,True,True,True,True,True,True
+3409353,"Kilambi, Kanchipuram - TNPCB",,12.864618,79.659968,2025-02-18T20:15:00Z,2025-11-17T05:00:00Z,True,True,True,True,True,True,True
+3409354,"Kudikadu, Cuddalore - TNPCB",,11.6829898,79.7532099,2025-02-19T10:45:00Z,2026-09-08T07:00:00Z,True,True,True,True,True,True,True
+3409355,"Sona College of Technology, Salem - TNPCB",,11.679111,78.125052,2025-02-18T20:15:00Z,2026-01-10T11:00:00Z,True,True,True,True,True,True,True
+3409356,"Bharathidasan University, Palkalaiperur - TNPCB",,10.681158,78.74174599999999,2025-02-18T20:15:00Z,2026-03-09T09:45:00Z,True,True,True,True,True,True,True
+3409357,"Kamadenu Nagar, Karur - TNPCB",,10.96782,78.080882,2025-02-18T20:15:00Z,2026-01-10T12:15:00Z,True,True,True,True,True,True,True
+3409358,"St Joseph College, Tiruchirappalli - TNPCB",,10.830158,78.691849,2025-02-18T20:15:00Z,2025-11-29T10:00:00Z,True,True,True,True,True,True,True
+3409359,"Kalabhavan, Dharwad - KSPCB",,15.459706,75.008381,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409360,"IITG, Guwahati - PCBA",,26.202863600000004,91.70046436,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409361,"AIIMS, Raipur - CECB",,21.258815,81.578979,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409362,"Siltara Phase-II, Raipur - CECB",,21.371751,81.664929,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409363,"Krishak Nagar, Raipur - CECB",,21.237755,81.705301,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409364,"Bhatagaon New ISBT, Raipur - CECB",,21.219665,81.630094,2025-02-21T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409365,"Rampur, Korba - CECB",,22.368195,82.746431,2025-02-19T05:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409366,"Urja Nagar, Korba - CECB",,22.348441,82.549611,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409367,"Hathkhoj, Bhilai - CECB",,21.224231,81.40835,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409368,"32Bungalows, Bhilai - CECB",,21.194815,81.31477,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409369,"Maharaj Bada, Gwalior - MPPCB",,26.200388,78.14771400000001,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409370,"Civil Lines, Sagar - MPPCB",,23.838586,78.759431,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409371,"Science Center, Surat - SMC",,21.170046,72.795405,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,False,False
+3409372,"Gangineni Cheruvu, Chittoor - APPCB",,13.20488,79.097889,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409373,"Vaikuntapuram, Tirupathi - APPCB",,13.615387,79.40923000000001,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409374,"Deen Dayal Nagar, Gwalior - MPPCB",,26.259241999999997,78.216432,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409375,"Bata Chowk, Nalbari - PCBA",,26.446912,91.43905699999999,2025-02-18T20:30:00Z,2026-09-17T14:15:00Z,True,True,True,True,True,True,True
+3409376,"Central Academy for SFS, Byrnihat - PCBA",,26.071317999999998,91.87488,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409377,"Meher Colony, Baripada - OSPCB",,21.941841,86.728318,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409378,"Jagamohanpur, Keonjhar - OSPCB",,21.6439,85.599355,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409379,"Divisional Forest Office, Rairangpur - OSPCB",,22.265816,86.174829,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409380,"Tata Township, Bileipada - OSPCB",,22.06156703,85.47409613,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409381,"Dabuna, Nayagarh - OSPCB",,21.847279,85.416905,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409382,"Raghunathpali, Rourkela - OSPCB",,22.220833,84.809444,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409383,"OMC Colony, Suakati - OSPCB",,21.606865,85.510538,2025-02-18T20:15:00Z,2026-09-17T03:30:00Z,True,True,True,True,True,True,True
+3409384,"Barsua Iron Ore Mines, Tensa - OSPCB",,21.869985,85.167016,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409385,"RVCE-Mailasandra, Bengaluru - KSPCB",,12.921418,77.502466,2025-02-18T20:15:00Z,2026-07-07T09:00:00Z,True,True,True,True,True,True,True
+3409386,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",,17.336318,76.847397,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409387,"Lingaraj Nagar, Hubballi - KSPCB",,15.3714823,75.1160168,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409388,"Kasturi Nagar, Bengaluru - KSPCB",,13.003872,77.664217,2025-02-18T20:15:00Z,2026-09-10T10:15:00Z,True,True,True,True,True,True,True
+3409389,"Thimmalapura, Tumakuru - KSPCB",,13.377516,77.09907199999999,2025-02-18T20:15:00Z,2026-09-17T14:00:00Z,True,True,True,True,True,True,True
+3409390,"LGBI Airport, Guwahati - PCBA",,26.10887,91.58954399999999,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409391,"Tarapur, Silchar - PCBA",,24.82827,92.79525,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409392,"Kanuru, Vijayawada - APPCB",,16.486692,80.69943599999999,2025-02-18T20:15:00Z,2026-08-03T10:15:00Z,True,True,True,True,True,True,True
+3409393,"Shivapura_Peenya, Bengaluru - KSPCB",,13.0246342,77.5080115,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409394,"Fertilizer Township, Rourkela - OSPCB",,22.18972222,84.86277778,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409395,"Sector-2, Rourkela - OSPCB",,22.245,84.88111111,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,False,False
+3409396,"Nawapara SECL Colony, Chhal - CECB",,22.118125,83.140608,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409397,"OP Jindal School, Kunjemura - CECB",,22.12665,83.483212,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409398,"Govt. Higher Secondary School, Milupara - CECB",,22.191017199999997,83.5197009,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409399,"OP Jindal Industrial Park, Tumidih - CECB",,22.06631475,83.33820077,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409400,"Yerramukkapalli, Kadapa - APPCB",,14.465051999999998,78.824187,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409401,"Samrat Ashok Udhyan, Jodhpur - RSPCB",,26.253384000000004,72.97657099999999,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409402,"Krishna Nagar, Bharatpur - RSPCB",,27.215415000000004,77.50873,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409403,"MM Ground, Bikaner - RSPCB",,28.018791999999998,73.29265799999999,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409404,"Subash Chowk, Churu - RSPCB",,28.296139,74.96169599999999,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409405,"Raja Ganj, Dholpur - RSPCB",,26.699557000000002,77.898881,2025-02-18T20:15:00Z,2026-09-17T13:15:00Z,True,True,True,True,True,True,True
+3409406,"Nayapura, Kota - RSPCB",,25.196023999999998,75.85566800000001,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409407,"Shastri Nagar, Tonk - RSPCB",,26.159933,75.780517,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409408,"Shivaji Nagar, Rishikesh - UKPCB",,30.075910999999998,78.2859547,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409409,"Govt. Girls Inter College, Kashipur - UKPCB",,29.2124114,78.96117530000001,2025-02-19T06:45:00Z,2026-09-17T10:15:00Z,True,True,True,True,True,True,True
+3409410,"Vedhaynath Colony, Sirohi - RSPCB",,24.885261,72.857549,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409411,"Christianpatty, Nagaon - PCBA",,26.349082,92.68449,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409412,"Dhanmandi, Kota - RSPCB",,25.164089999999998,75.858137,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409413,"Idgah Hills, Bhopal - MPPCB",,23.264758999999998,77.381568,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409414,"Vijay Nagar Scheme-78, Indore - Glenmark",,22.76726,75.8871,2025-02-18T20:15:00Z,2026-06-26T07:30:00Z,True,True,True,True,False,False,False
+3409415,"Sardar Patel Nagar, Dhanbad - JSPCB",,23.80569,86.44268000000001,2025-02-19T06:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409416,"Rati Talai, Banswara - RSPCB",,23.55519,74.44001,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409417,"Shastri Nagar, Chittorgarh - RSPCB",,24.892047,74.623527,2025-02-18T20:15:00Z,2026-09-17T14:00:00Z,True,True,True,True,True,True,True
+3409418,"Khatikan Mohalla, Dausa - RSPCB",,26.895552000000002,76.334753,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409419,"Railway Colony, Barmer - RSPCB",,25.747298999999998,71.393989,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409420,"Housing Board, Hanumangarh - RSPCB",,29.61075,74.283608,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409421,"Sahu Nagar, Sawai Madhopur - RSPCB",,26.031443,76.35932700000001,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409422,"Indra Nagar, Jhunjhunu - RSPCB",,28.108988,75.386577,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409423,"Dhoinda, Rajsamand - RSPCB",,25.036360000000002,73.88350200000001,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409424,"Old City, Sri Ganganagar - RSPCB",,29.931624,73.864511,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409425,"Jhalamand, Jodhpur - RSPCB",,26.215415000000004,73.07015600000001,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409426,"Pragati Nagar, Pratapgarh - RSPCB",,24.041198,74.780702,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409427,"Radhakishan Pura, Sikar - RSPCB",,27.608912,75.153302,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409428,"Satyawati Vihar, Karauli - RSPCB",,26.506177,77.025989,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409429,"Rajlaxmi Nagar, Jhalawar - RSPCB",,24.588397,76.172782,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409430,"Mansarovar Sector-12, Jaipur - RSPCB",,26.843698,75.766894,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409431,"Digari Kalan, Jodhpur - RSPCB",,26.295809999999996,73.08228299999999,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409432,"Sector-2 Murlipura, Jaipur - RSPCB",,26.960669,75.771817,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409433,"RIICO Sitapura, Jaipur - RSPCB",,26.786682,75.827928,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409434,"Jigani, Bengaluru - KSPCB",,12.7816279,77.6299145,2025-02-19T06:45:00Z,2026-09-17T06:45:00Z,True,True,True,True,True,True,True
+3409435,"Gavalinagar, Pimpri Chinchwad - MPCB",,18.63673,73.82487,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409436,"Park Street Wakad, Pimpri Chinchwad - MPCB",,18.59051,73.77946,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409437,"Thergaon, Pimpri Chinchwad - MPCB",,18.616318,73.765797,2025-02-19T06:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409438,"Katraj Dairy, Pune - MPCB",,18.45445,73.854155,2025-02-19T21:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409439,"Savitribai Phule Pune University, Pune - MPCB",,18.547056,73.826908,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409440,"Shivaji University, Kolhapur - MPCB",,16.6870449,74.2505872,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409441,"Sinchan Bhavan, Kolhapur - MPCB",,16.7143745,74.2426398,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409442,"Pratap Nagar, Bhilwara - RSPCB",,25.339605,74.618883,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409443,"New Colony, Bundi - RSPCB",,25.435774,75.644272,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409444,"Sadar Bazar, Jaisalmer - RSPCB",,26.912329,70.909168,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409445,"Mandor, Jodhpur - RSPCB",,26.358805,73.047444,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409446,"Vijay Nagar, Sangli - MPCB",,16.843813,74.615091,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409447,"Bamboliya, Baran - RSPCB",,25.106006,76.469948,2025-02-18T20:15:00Z,2026-09-17T14:15:00Z,True,True,True,True,True,True,True
+3409448,"Ratandeep Housing Society, Solapur - MPCB",,17.65439,75.90649,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409449,"Dnyaneshwar Nagar, Solapur - MPCB",,17.6336264,75.9132495,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409450,"Karni Colony, Nagaur - RSPCB",,27.213494,73.734444,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409451,"Pandav Nagari, Nashik - MPCB",,19.9591346,73.7788008,2025-02-18T20:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409452,"Sawe Wadi, Latur - MPCB",,18.39963,76.57452,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409453,"MIDC Ambad, Nashik - MPCB",,19.95022,73.73148,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409454,"Hirawadi, Nashik - MPCB",,20.021503,73.813844,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409455,"Kamble Tarf Birwadi, Mahad - MPCB",,18.1023399,73.4783687,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409456,"Ramdaspeth, Akola - MPCB",,20.719516,77.000253,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409457,"Tarakpur, Ahmednagar - MPCB",,19.10122,74.73339,2025-02-18T21:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409458,"Shivneri Colony, Amravati - MPCB",,20.9402359,77.7895248,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409459,"Shri Shivaji Science College, Amaravati - MPCB",,20.939198,77.765701,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409460,"MIDC Chilkalthana, Aurangabad - MPCB",,19.87562,75.38731,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409461,"Rachnakar Colony, Aurangabad - MPCB",,19.863756,75.321188,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409462,"Prabhat Colony, Jalgaon - MPCB",,21.001264,75.565602,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409463,"Old MIDC, Jalna - MPCB",,19.854616,75.905894,2025-02-20T02:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409464,"Ambazari, Nagpur - MPCB",,21.121801,79.04952,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409465,"Ram Nagar, Nagpur - MPCB",,21.143383,79.048912,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409466,"Masoom Colony, Parbhani - MPCB",,19.265594,76.761463,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409467,"Sneh Nagar, Nanded - MPCB",,19.173852,77.296291,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409468,"Mahal, Nagpur - MPCB",,21.14472,79.107595,2025-02-18T20:15:00Z,2026-09-17T13:30:00Z,True,True,True,True,True,True,True
+3409469,"Kasarvadavali, Thane - MPCB",,19.26777,72.97182,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409470,"Katrap, Badlapur - MPCB",,19.16485,73.23409,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409471,"Sector-2E Kalamboli, Navi Mumbai - MPCB",,19.02579,73.10297,2025-02-18T20:15:00Z,2026-09-17T13:30:00Z,True,True,True,True,True,True,True
+3409472,"Upvan Fort, Thane - MPCB",,19.222279,72.957979,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409473,"Deopur, Dhule - MPCB",,20.918946,74.776388,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409474,"Mahesh Nagar, Malegaon - MPCB",,20.555712,74.529236,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409475,"Tondare-Taloja, Navi Mumbai - MPCB",,19.063,73.1209,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409476,"CBD Belapur, Belapur - MPCB",,19.0243902,73.0406721,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409477,"Kopripada-Vashi, Navi Mumbai - MPCB",,19.090337,73.014232,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409478,"Bhayandar West, Mira-Bhayandar - MPCB",,19.296481,72.840923,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409479,"Mindspace-Malad West, Mumbai - MPCB",,19.1878657,72.8304069,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409480,"Bolinj, Virar - MPCB",,19.445821,72.7988231,2025-02-18T20:15:00Z,2026-09-17T13:30:00Z,True,True,True,True,True,True,True
+3409481,"Khaira, Boisar - MPCB",,19.786089,72.757971,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",,19.065931,72.862131,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409483,"Chembur, Mumbai - MPCB",,19.0364585,72.8954371,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409484,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",,19.235581,73.159121,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409485,"Gokul Nagar, Bhiwandi - MPCB",,19.309073,73.057223,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",,19.0632143,72.8456324,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409487,"Sanpada, Navi Mumbai - MPCB",,19.0575752,73.0151367,2025-02-19T10:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409488,"Suhagi, Jabalpur - JMC",,23.218135,79.95777,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409489,"Gupteshwar, Jabalpur - JMC",,23.142888,79.916147,2025-02-18T20:15:00Z,2026-08-24T01:15:00Z,True,True,True,True,True,True,True
+3409492,"HB Colony, Vijayawada - APPCB",,16.536107,80.594233,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409493,"Rajiv Gandhi Park, Vijayawada - APPCB",,16.509717,80.612222,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409494,"Bhoiwada, Dungarpur - RSPCB",,23.837789,73.714926,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409495,"Mudtra Sili, Jalore - RSPCB",,25.344694,72.626208,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409496,"New Moti Bagh, Delhi - MHUA",,28.57834,77.184,2026-03-10T10:30:00Z,2026-06-13T09:15:00Z,True,False,True,False,True,False,False
+3409497,"KHB Colony, Karwar - KSPCB",,14.816666,74.141003,2025-02-18T20:15:00Z,2026-09-12T21:30:00Z,True,True,True,True,True,True,True
+3409498,"Residency Area, Indore - IMC",,22.7084,75.8815,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409499,"Regional Park, Indore - MPPCB",,22.678,75.8559,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409500,"Maguda Nagar, Indore - IMC",,22.7524,75.8872,2025-04-18T09:30:00Z,2026-09-14T10:45:00Z,True,True,True,True,True,True,True
+3409501,"Airport Area, Indore - IMC",,22.7289,75.8076,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409502,"Kalidaspur, Balasore - OSPCB",,21.51161,86.89088,2025-02-19T07:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409503,"Forest Office, Barbil - OSPCB",,22.1166054,85.3945546,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409504,"Hakimapada, Angul - OSPCB",,20.832874,85.104082,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409505,"Lingraj Mandir, Bhubaneswar - OSPCB",,20.24079,85.836784,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409506,"CDA Area, Cuttack - OSPCB",,20.48891,85.84768,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409507,"Ferro Chrome Colony, Byasanagar - OSPCB",,20.94185,86.1151,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409508,"Patia, Bhubaneswar - OSPCB",,20.34652,85.8163,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409509,"SVSPA Campus, Barrackpore - WBPCB",,22.7605581,88.3617589,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409510,"Byculla, Mumbai - BMC",,18.9767,72.838,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409511,"Shivaji Nagar, Mumbai - BMC",,19.060498,72.923356,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409512,"Kandivali West, Mumbai - BMC",,19.215859,72.831718,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409513,"Sewri, Mumbai - BMC",,19.000084,72.85673,2025-02-18T20:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409514,"Ghatkopar, Mumbai - BMC",,19.083694,72.920967,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409515,"Govindh Bhavan Colony, Jabalpur - MPPCB",,23.163174,79.973061,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409516,"SIPCOT Nathampannai, Pudukottai - TNPCB",,10.423417,78.784889,2025-02-18T20:15:00Z,2026-04-21T14:00:00Z,True,True,True,True,False,False,False
+3409517,"Collectorate Office, Virudhunagar - TNPCB",,9.559382,77.948828,2025-02-18T20:15:00Z,2025-12-11T04:15:00Z,True,True,True,True,True,True,True
+3409518,"Rajiv Nagar, Vijayawada - APPCB",,16.554731,80.64911,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409519,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",,28.207266,76.829265,2025-02-18T20:15:00Z,2026-09-17T11:15:00Z,True,True,True,True,True,True,True
+3409520,"PCBL Residential Complex, Durgapur - WBPCB",,23.508764,87.35444,2025-02-18T20:15:00Z,2026-09-17T11:00:00Z,True,True,True,True,True,True,True
+3409521,"Evelyn Lodge, Asansol - WBPCB",,23.697936,86.944395,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409522,"Mahabir Colliery, Asansol - WBPCB",,23.618183,87.105718,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409523,"Bhumkar Nagar, Pune - IITM",,18.60577,73.749976,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+3409524,"Botanical Garden, Howrah - WBPCB",,22.554954,88.292568,2025-02-19T09:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409525,"Trivenidevi Bhalotia College, Asansol - WBPCB",,23.616515,87.119133,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409526,"Panchawati_Pashan, Pune - IITM",,18.536457,73.805454,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+3409527,"SIPCOT Industrial Park, Perundurai - TNPCB",,11.258242,77.552761,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3409528,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",,18.614767,73.799516,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+3409529,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",,23.567923,87.306843,2025-02-19T07:15:00Z,2026-09-17T11:00:00Z,True,True,True,True,True,True,True
+3409530,"Dasnagar, Howrah - WBPCB",,22.6025571,88.3105664,2025-02-19T11:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3410003,"Police Line, Sri Vijaya Puram - ANPCC",,11.654054,92.734055,2025-02-18T20:15:00Z,2026-04-08T08:15:00Z,True,True,True,True,True,True,True
+3410004,"Amity University, Panchgaon - IITM",,28.3153,76.9143,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+3410005,"Dhankawadi, Pune - IITM",,18.459883,73.852193,2025-02-18T20:15:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+3774726,"Ponnusamy Nagar, Namakkal - TNPCB",,11.273992,78.163545,2025-03-20T11:00:00Z,2025-11-12T18:15:00Z,True,True,True,True,True,True,True
+4512170,"Altair's Home - Bemina, Srinagar",,34.0702669,74.7754688,2025-05-24T11:00:00Z,2025-09-09T17:00:00Z,True,False,False,False,False,False,False
+4663956,"Santushti Apartments, Vasant Kunj",,28.5266,77.1493,2025-06-08T09:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+4712609,Air Check,,28.623056,77.234167,2026-01-28T11:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+4720578,Hyderabad,,17.492676,78.405394,2025-06-13T03:00:00Z,2025-07-07T05:00:00Z,True,False,False,False,False,False,False
+4916349,CURAJ,,26.6236,75.0273,2025-07-01T01:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+5057509,IIMA Ventures,,23.034568596154394,72.53287536498033,2025-07-13T07:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+5728639,"Bemina, Srinagar",,34.07023554237501,74.77548492160591,2025-09-09T18:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+5929186,Psychopath Studios,,34.0584621,74.8324004,2025-09-27T07:00:00Z,2026-05-26T17:00:00Z,True,False,False,False,False,False,False
+5963701,Max,,34.070227923365785,74.77548616383625,2025-09-30T09:00:00Z,2025-10-02T17:00:00Z,False,False,False,False,False,False,False
+6003651,SVNIT Surat,,21.7653,72.7855,2025-10-03T16:00:00Z,2026-06-25T18:00:00Z,True,False,False,False,False,False,False
+6013125,Kanipora,,34.0132271,74.8398961,2025-10-04T12:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6061085,JKPCB,,34.067893918880145,74.81864018646164,2025-10-08T13:00:00Z,2026-02-11T11:00:00Z,True,False,False,False,False,False,False
+6105800,"Sector 1, Noida extension",,28.583491,77.431714,2025-10-23T18:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6112064,VNIT NAGPUR,,21.123229,79.052856,2025-10-29T12:00:00Z,2026-09-19T18:00:00Z,True,False,False,False,False,False,False
+6119271,Kumaraswamy Layout,,12.9044,77.5649,2025-11-04T17:00:00Z,2026-04-23T06:00:00Z,True,False,False,False,False,False,False
+6119272,"Sector - 5, Vasundhara, Ghaziabad, Uttar Pradesh ",,28.658398,77.3780531,2025-11-04T15:00:00Z,2026-03-26T05:00:00Z,True,False,False,False,False,False,False
+6125489,"Uptitude Cloud Pvt Ltd - Sector 62, GGN",,28.40240847053802,77.08477464826682,2025-11-10T09:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6145551,Anand Lok,,28.5587,77.21886,2025-11-28T11:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6146655,Bellandur,,12.9178128,77.6955288,2025-11-29T12:00:00Z,2026-01-12T03:00:00Z,True,False,False,False,False,False,False
+6146812,Araria,,26.137989,87.457768,2025-11-29T16:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6148686,"IIT Delhi, Delhi - IITM",,28.54246,77.191651,2025-12-01T11:30:00Z,2026-09-17T14:30:00Z,True,True,True,False,True,True,False
+6167193,"Khunmoh, Srinagar - JKPCC",,34.06313,74.96017,2025-12-16T11:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,False,False,False
+6167988,"Khrew, Pampore - JKPCC",,34.031606,75.009712,2025-12-17T05:15:00Z,2026-09-15T18:30:00Z,True,True,True,True,False,False,False
+6193521,Maitreye Weather Station,,12.0000374,79.8180856,2026-01-08T05:00:00Z,2026-02-13T02:00:00Z,True,False,False,False,False,False,False
+6194938,"Mahashweta Nagar, Ujjain - MPPCB",,23.1633321,75.800225,2026-01-09T11:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6203210,Talab Tillo Jammu,,32.740106329099916,74.83177768465765,2026-01-16T09:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6206921,Koramangala,,12.9370223,77.6115928,2026-01-19T11:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6217492,"Vidhyanagar, Bhavnagar - Nexteng Enviro",,21.755417,72.139056,2026-01-27T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6221294,"Bapunagar, Vadodara - Nexteng Enviro",,22.320153,73.216285,2026-01-30T11:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6221295,"Katargam, Surat - Nexteng Enviro",,21.217779,72.834787,2026-01-30T12:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6221395,"Sadanand Nagar, Mehsana - Nexteng Enviro",,23.59315,72.372792,2026-01-30T12:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6221396,"Mavdi, Rajkot - Nexteng Enviro",,22.248853,70.776774,2026-01-30T12:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6229179,Nardani Jammu,,32.80803,74.816769,2026-02-05T08:00:00Z,2026-02-05T08:00:00Z,True,False,False,False,False,False,False
+6230603,Rajouri Jammu,,33.380775,74.314353,2026-02-06T12:00:00Z,2026-06-05T09:00:00Z,True,False,False,False,False,False,False
+6231999,Gandhi Nagar,,32.701576,74.859108,2026-02-07T15:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6244030,Auroville,,12.000079,79.818104,2026-02-18T05:00:00Z,2026-08-03T16:00:00Z,True,False,False,False,False,False,False
+6250050,Agya Enterprises,,23.258543,77.454474,2026-02-23T14:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6250953,"Elamkulam, Malappuram - Kerala ELWOIC",,10.89235897883435,76.23440154833858,2026-02-24T09:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6251997,"Indira Nagar, Raebareli - NTPC Unchahar",,26.207781,81.245571,2026-02-25T05:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6254594,"Talkatora Garden, Delhi - DPCC",,28.62181,77.1944633,2026-02-27T15:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6254663,"JNU, Delhi - DPCC",,28.540721,77.168544,2026-02-27T17:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6254664,"NSUT Jaffarpur, Delhi - DPCC",,28.594004,76.909423,2026-02-27T17:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6254665,"Commonwealth Sports Complex, Delhi - DPCC",,28.615828,77.271992,2026-02-27T17:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6254666,"IGNOU_Maidan Garhi, Delhi - DPCC",,28.493624,77.201159,2026-02-27T16:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6257818,"Cantonment Area, Delhi - DPCC",,28.594169,77.1251,2026-03-02T13:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6258871,"Vithalwadi, Ulhasnagar - MPCB",,19.2307571,73.155192,2026-03-03T11:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6266792,"Bir, Beed - MPCB",,18.988474,75.753873,2026-03-09T12:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6266793,"Ashta Vinayak Nagar, Hingoli - MPCB",,19.710842,77.151824,2026-03-10T07:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6266794,"Chinchpada, Ambernath - MPCB",,19.215784,73.199781,2026-03-10T07:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6266795,"Kalu Nagar, Dombivli - MPCB",,19.2268427,73.0788456,2026-03-09T13:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6267806,"Rajendra Nagar North, Guntur - APPCB",,16.316553,80.413302,2026-03-11T05:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6267807,"Srinivas Nagar Colony, Machilipatnam - APPCB",,16.186555,81.13219,2026-03-11T04:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6267808,"District Court, Eluru - APPCB",,16.711754,81.092095,2026-03-11T05:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6276317,"Ambedkar Nagar, Nellore - APPCB",,14.438164,79.966814,2026-03-18T11:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6290075,"15th Mile-Nongthymmai, Byrnihat - Meghalaya PCB",,26.079047,91.875185,2026-03-30T11:15:00Z,2026-09-17T14:15:00Z,True,True,True,True,True,False,False
+6297968,Gandhi Nagar,,32.7014,74.8596,2026-04-06T08:00:00Z,2026-04-06T08:00:00Z,True,False,False,False,False,False,False
+6299494,"Prashant Garden, Khora - UPPCB",,28.61119,77.34206,2026-04-07T12:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6299603,"SRM University, Modinagar - UPPCB",,28.798171,77.540243,2026-04-07T15:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6299678,"Ved Vihar-Loni, Ghaziabad - UPPCB",,28.739153,77.273668,2026-04-07T17:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6311324,"Govindpuram, Ghaziabad - UPPCB",,28.694528,77.494705,2026-04-17T13:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6311325,"MIET College, Meerut - UPPCB",,28.972677,77.641018,2026-04-17T13:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6314877,"Koyana Nagar, Satara - MPCB",,17.696651,74.003387,2026-04-20T13:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6356035,Palm City,,27.20289,80.39693,2026-05-19T15:00:00Z,2026-05-19T17:00:00Z,True,False,False,False,False,False,False
+6401376,Channi Himmat,,32.689777,74.886016,2026-06-13T17:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6404322,"New Anaj Mandi, Khairthal - RSPCB",,27.8015617,76.6365217,2026-06-15T18:00:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6404323,"Pali Dungra, Mathura - UPPCB",,27.410954,77.550619,2026-06-15T16:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6418671,"Dadupura, Fatehpur Sikri - UPPCB",,27.097694,77.671335,2026-06-25T16:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6425298,"Sita Rama Nagar, Kurnool - APPCB",,15.83411,78.028546,2026-06-30T08:15:00Z,2026-09-17T12:30:00Z,True,True,True,True,True,True,True
+6431234,"Nowshera, Rajouri",,33.162408,74.23779,2026-07-06T08:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6434075,"Ahamshrief, Bandipora",,34.4494,74.6635,2026-07-06T13:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6434209,"Anand Nagar, Raebareli - UPPCB",,26.219512,81.237648,2026-07-06T13:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6435505,"New Tehsil, Shamli - UPPCB",,29.4603683,77.3410291,2026-07-07T10:45:00Z,2026-09-17T05:30:00Z,True,True,True,True,True,True,True
+6441402,"Kashtigarh, Doda",,33.1567,75.4517,2026-07-11T17:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6442612,Udhampur,,32.9165,75.1326,2026-07-12T14:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6444829,"Leh, Ladakh",,34.14554,77.563278,2026-07-14T17:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6452286,Vijaypur ,,32.566932,75.019868,2026-07-20T07:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6452644,"Vigyan Nagar, Alwar - RSPCB",,27.598796,76.63861,2026-07-20T10:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6456616,Applied Informatics Headquarters ,,34.123633,74.83279,2026-07-23T06:00:00Z,2026-09-17T10:00:00Z,True,False,False,False,False,False,False
+6458518,"Chinna Bharatham Colony, Srikakulam - APPCB",,18.292191,83.897173,2026-07-24T12:00:00Z,2026-09-05T23:45:00Z,True,True,True,True,True,True,True
+6458519,"Rama Rao Peta, Kakinada - APPCB",,16.962488,82.229513,2026-07-24T11:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6458520,"Wave City, Ghaziabad - UPPCB",,28.646675,77.489049,2026-07-24T10:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6458521,"Rajanpur, Gajraula - UPPCB",,28.829109,78.248796,2026-07-24T10:30:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6465605,"Jeelanabad, Batpora, Srinagar",,34.159,74.8402,2026-07-29T13:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6476827,Reasi Town Centre,,33.0800963,74.8398673,2026-08-06T12:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6482404,"Skara Yokma, Leh - LPCC",,34.147096,77.55709,2026-08-10T11:00:00Z,2026-09-17T14:30:00Z,True,True,False,True,True,True,False
+6487074,"Nagar Palika Parishad, Baraut - UPPCB",,29.09956,77.26235,2026-08-13T12:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6514356,"Malleswaram, Bangalore ",,13.00074,77.56952,2026-08-30T06:00:00Z,2026-08-30T06:00:00Z,True,False,False,False,False,False,False
+6514728,"Kargil, Ladakh",,34.55897462058039,76.12613928874369,2026-08-30T11:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False
+6530248,"Nua Sandhakuda, Paradeep - OSPCB",,20.258828,86.665185,2026-09-08T11:15:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6530249,"Chhatikara, Vrindavan - UPPCB",,27.57194,77.62346,2026-09-08T10:45:00Z,2026-09-17T14:30:00Z,True,True,True,True,True,True,True
+6543594,"Bemina, Srinagar",,34.07031,74.77562,2026-09-16T16:00:00Z,2026-09-20T20:00:00Z,True,False,False,False,False,False,False

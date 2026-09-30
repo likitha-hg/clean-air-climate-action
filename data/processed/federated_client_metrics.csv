@@ -1,0 +1,6 @@
+client_id,samples,stations,train_mae_ug_m3,train_rmse_ug_m3,aggregation_method,parameter_space,local_preprocessing,raw_data_transferred
+Central India,6090,4,4.660552697174933,6.774307750829289,sample-weighted FedAvg,raw_feature_space,per-client StandardScaler,False
+East India,19445,11,8.694691413470181,15.51051204048257,sample-weighted FedAvg,raw_feature_space,per-client StandardScaler,False
+North India,27773,14,8.774915002650959,18.87363155253006,sample-weighted FedAvg,raw_feature_space,per-client StandardScaler,False
+South India,9601,10,6.605617421873739,11.825881364823225,sample-weighted FedAvg,raw_feature_space,per-client StandardScaler,False
+West India,10593,5,7.447665376772869,11.757007913986264,sample-weighted FedAvg,raw_feature_space,per-client StandardScaler,False
