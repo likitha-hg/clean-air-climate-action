@@ -1,0 +1,13 @@
+streamlit==1.64.0
+pandas==3.0.6
+numpy==2.5.3
+plotly==7.1.0
+xgboost==3.4.1
+scikit-learn==1.9.1
+joblib==1.6.0
+pillow==12.3.0
+requests==2.34.2
+python-dotenv==1.2.3
+google-genai==2.24.0
+geopandas==1.1.4
+rasterio==1.5.1
