@@ -211,3 +211,11 @@ Evidence             Evidence
 **Likitha H G**
 
 Clean Air & Climate Action
+
+---
+
+## Live Application
+
+The deployed Clean Air & Climate Action platform is available on Streamlit Community Cloud:
+
+https://clean-air-climate-action.streamlit.app/
